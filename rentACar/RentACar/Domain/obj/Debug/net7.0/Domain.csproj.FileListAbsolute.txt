@@ -1,0 +1,15 @@
+E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\Domain\bin\Debug\net7.0\Domain.deps.json
+E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\Domain\bin\Debug\net7.0\Domain.dll
+E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\Domain\bin\Debug\net7.0\Domain.pdb
+E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\Domain\bin\Debug\net7.0\Core.Persistence.dll
+E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\Domain\bin\Debug\net7.0\Core.Persistence.pdb
+E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\Domain\obj\Debug\net7.0\Domain.csproj.CopyComplete
+E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\Domain\obj\Debug\net7.0\Domain.dll
+E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\Domain\obj\Debug\net7.0\refint\Domain.dll
+E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\Domain\obj\Debug\net7.0\Domain.pdb
+E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\Domain\obj\Debug\net7.0\ref\Domain.dll

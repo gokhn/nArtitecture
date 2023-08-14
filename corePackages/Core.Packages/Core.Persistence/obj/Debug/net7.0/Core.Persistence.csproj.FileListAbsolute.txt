@@ -1,0 +1,12 @@
+E:\GokhanGungor\GGGithubProjects\nArtitecture\corePackages\Core.Packages\Core.Persistence\bin\Debug\net7.0\Core.Persistence.deps.json
+E:\GokhanGungor\GGGithubProjects\nArtitecture\corePackages\Core.Packages\Core.Persistence\bin\Debug\net7.0\Core.Persistence.dll
+E:\GokhanGungor\GGGithubProjects\nArtitecture\corePackages\Core.Packages\Core.Persistence\bin\Debug\net7.0\Core.Persistence.pdb
+E:\GokhanGungor\GGGithubProjects\nArtitecture\corePackages\Core.Packages\Core.Persistence\obj\Debug\net7.0\Core.Persistence.csproj.AssemblyReference.cache
+E:\GokhanGungor\GGGithubProjects\nArtitecture\corePackages\Core.Packages\Core.Persistence\obj\Debug\net7.0\Core.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+E:\GokhanGungor\GGGithubProjects\nArtitecture\corePackages\Core.Packages\Core.Persistence\obj\Debug\net7.0\Core.Persistence.AssemblyInfoInputs.cache
+E:\GokhanGungor\GGGithubProjects\nArtitecture\corePackages\Core.Packages\Core.Persistence\obj\Debug\net7.0\Core.Persistence.AssemblyInfo.cs
+E:\GokhanGungor\GGGithubProjects\nArtitecture\corePackages\Core.Packages\Core.Persistence\obj\Debug\net7.0\Core.Persistence.csproj.CoreCompileInputs.cache
+E:\GokhanGungor\GGGithubProjects\nArtitecture\corePackages\Core.Packages\Core.Persistence\obj\Debug\net7.0\Core.Persistence.dll
+E:\GokhanGungor\GGGithubProjects\nArtitecture\corePackages\Core.Packages\Core.Persistence\obj\Debug\net7.0\refint\Core.Persistence.dll
+E:\GokhanGungor\GGGithubProjects\nArtitecture\corePackages\Core.Packages\Core.Persistence\obj\Debug\net7.0\Core.Persistence.pdb
+E:\GokhanGungor\GGGithubProjects\nArtitecture\corePackages\Core.Packages\Core.Persistence\obj\Debug\net7.0\ref\Core.Persistence.dll

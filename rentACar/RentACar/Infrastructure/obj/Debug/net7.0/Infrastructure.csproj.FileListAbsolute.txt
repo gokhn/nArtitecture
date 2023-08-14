@@ -1,0 +1,12 @@
+E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
