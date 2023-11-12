@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ODjoWNpsAT8adt+K0fNybFYqZjNby6M+iS4nZsCIFE/2RMYLSqUNo+zwDrwR+O2JbnkQ5+wKpJz6/2UArvmBJg==",
+  "dgSpecHash": "rPzffx13jVqaF67yZalF//STb7LqF6a0W8VlNLm0IapoKrl0Rm66UKZTjLWP5bHDDfANmy0WkGEYmwb29ClX/Q==",
   "success": true,
   "projectFilePath": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\corePackages\\Core.Packages\\Core.Persistence\\Core.Persistence.csproj",
   "expectedPackageFiles": [
@@ -72,6 +72,7 @@
     "C:\\Users\\GOKHANGUNGOR\\.nuget\\packages\\system.io.filesystem\\4.3.0\\system.io.filesystem.4.3.0.nupkg.sha512",
     "C:\\Users\\GOKHANGUNGOR\\.nuget\\packages\\system.io.filesystem.primitives\\4.3.0\\system.io.filesystem.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\GOKHANGUNGOR\\.nuget\\packages\\system.linq\\4.3.0\\system.linq.4.3.0.nupkg.sha512",
+    "C:\\Users\\GOKHANGUNGOR\\.nuget\\packages\\system.linq.dynamic.core\\1.3.5\\system.linq.dynamic.core.1.3.5.nupkg.sha512",
     "C:\\Users\\GOKHANGUNGOR\\.nuget\\packages\\system.linq.expressions\\4.3.0\\system.linq.expressions.4.3.0.nupkg.sha512",
     "C:\\Users\\GOKHANGUNGOR\\.nuget\\packages\\system.net.http\\4.3.0\\system.net.http.4.3.0.nupkg.sha512",
     "C:\\Users\\GOKHANGUNGOR\\.nuget\\packages\\system.net.nameresolution\\4.3.0\\system.net.nameresolution.4.3.0.nupkg.sha512",
