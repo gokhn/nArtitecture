@@ -21,7 +21,7 @@ namespace Core.Persistence.Respositories
             Func<IQueryable<TEntity>,IIncludableQueryable<TEntity,object>>? include = null,
             bool withDeleted = false,
             bool enableTracking =true,
-            CancellationToken token = default);
+            CancellationToken cancellationToken = default);
 
         Task<Paginate<TEntity>> GetListAsync(
           Expression<Func<TEntity, bool>>? predicate = null,
