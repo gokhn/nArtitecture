@@ -4,14 +4,83 @@
     "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\rentACar\\RentACar\\Persistence\\Persistence.csproj": {}
   },
   "projects": {
-    "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\rentACar\\RentACar\\Persistence\\Persistence.csproj": {
+    "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\rentACar\\RentACar\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\rentACar\\RentACar\\Persistence\\Persistence.csproj",
-        "projectName": "Persistence",
-        "projectPath": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\rentACar\\RentACar\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\rentACar\\RentACar\\Application\\Application.csproj",
+        "projectName": "Application",
+        "projectPath": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\rentACar\\RentACar\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\GOKHANGUNGOR\\.nuget\\packages\\",
-        "outputPath": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\rentACar\\RentACar\\Persistence\\obj\\",
+        "outputPath": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\rentACar\\RentACar\\Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\GOKHANGUNGOR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\rentACar\\RentACar\\Domain\\Domain.csproj": {
+                "projectPath": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\rentACar\\RentACar\\Domain\\Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\rentACar\\RentACar\\Domain\\Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\rentACar\\RentACar\\Domain\\Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\rentACar\\RentACar\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\GOKHANGUNGOR\\.nuget\\packages\\",
+        "outputPath": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\rentACar\\RentACar\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -59,7 +128,91 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\rentACar\\RentACar\\Persistence\\Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\rentACar\\RentACar\\Persistence\\Persistence.csproj",
+        "projectName": "Persistence",
+        "projectPath": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\rentACar\\RentACar\\Persistence\\Persistence.csproj",
+        "packagesPath": "C:\\Users\\GOKHANGUNGOR\\.nuget\\packages\\",
+        "outputPath": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\rentACar\\RentACar\\Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\GOKHANGUNGOR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\rentACar\\RentACar\\Application\\Application.csproj": {
+                "projectPath": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\rentACar\\RentACar\\Application\\Application.csproj"
+              },
+              "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\rentACar\\RentACar\\Domain\\Domain.csproj": {
+                "projectPath": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\rentACar\\RentACar\\Domain\\Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.16, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[7.0.16, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.16, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

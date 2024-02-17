@@ -10,3 +10,8 @@ E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\Application\obj\
 E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\Application\obj\Debug\net7.0\refint\Application.dll
 E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\Application\obj\Debug\net7.0\Application.pdb
 E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\Application\obj\Debug\net7.0\ref\Application.dll
+E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\Application\bin\Debug\net7.0\Core.Persistence.dll
+E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\Application\bin\Debug\net7.0\Domain.dll
+E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\Application\bin\Debug\net7.0\Domain.pdb
+E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\Application\bin\Debug\net7.0\Core.Persistence.pdb
+E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\Application\obj\Debug\net7.0\Application.csproj.CopyComplete

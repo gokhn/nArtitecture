@@ -15,7 +15,6 @@ E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\WebApi\obj\Debug
 E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\WebApi\obj\Debug\net7.0\WebApi.AssemblyInfoInputs.cache
 E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\WebApi\obj\Debug\net7.0\WebApi.AssemblyInfo.cs
 E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\WebApi\obj\Debug\net7.0\WebApi.csproj.CoreCompileInputs.cache
-E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\WebApi\obj\Debug\net7.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
 E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\WebApi\obj\Debug\net7.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
 E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
 E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApi.props
@@ -35,3 +34,8 @@ E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\WebApi\bin\Debug
 E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\WebApi\bin\Debug\net7.0\MediatR.Contracts.dll
 E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\WebApi\bin\Debug\net7.0\Application.dll
 E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\WebApi\bin\Debug\net7.0\Application.pdb
+E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\WebApi\bin\Debug\net7.0\Domain.dll
+E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\WebApi\bin\Debug\net7.0\Core.Persistence.dll
+E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\WebApi\bin\Debug\net7.0\Domain.pdb
+E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\WebApi\bin\Debug\net7.0\Core.Persistence.pdb
+E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\WebApi\obj\Debug\net7.0\WebApi.MvcApplicationPartsAssemblyInfo.cs

@@ -1,7 +1,6 @@
 E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\Persistence\bin\Debug\net7.0\Persistence.deps.json
 E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\Persistence\bin\Debug\net7.0\Persistence.dll
 E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\Persistence\bin\Debug\net7.0\Persistence.pdb
-E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\Persistence\obj\Debug\net7.0\Persistence.csproj.AssemblyReference.cache
 E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\Persistence\obj\Debug\net7.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
 E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfoInputs.cache
 E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfo.cs
@@ -10,3 +9,11 @@ E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\Persistence\obj\
 E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\Persistence\obj\Debug\net7.0\refint\Persistence.dll
 E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\Persistence\obj\Debug\net7.0\Persistence.pdb
 E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\Persistence\obj\Debug\net7.0\ref\Persistence.dll
+E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\Persistence\bin\Debug\net7.0\Domain.dll
+E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\Persistence\bin\Debug\net7.0\Core.Persistence.dll
+E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\Persistence\bin\Debug\net7.0\Domain.pdb
+E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\Persistence\bin\Debug\net7.0\Core.Persistence.pdb
+E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\Persistence\obj\Debug\net7.0\Persistence.csproj.AssemblyReference.cache
+E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\Persistence\obj\Debug\net7.0\Persistence.csproj.CopyComplete
+E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\Persistence\bin\Debug\net7.0\Application.dll
+E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\Persistence\bin\Debug\net7.0\Application.pdb
