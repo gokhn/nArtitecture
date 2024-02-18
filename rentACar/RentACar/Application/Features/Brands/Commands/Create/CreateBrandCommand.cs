@@ -1,4 +1,7 @@
-﻿using MediatR;
+﻿using Application.Services.Repositories;
+using AutoMapper;
+using Domain.Entities;
+using MediatR;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -13,9 +16,31 @@ namespace Application.Features.Brands.Commands.Create;
 
     public class CreateBrandCommandHandlar : IRequestHandler<CreateBrandCommand, CreatedBrandResponse>
     {
-        public Task<CreatedBrandResponse> Handle(CreateBrandCommand request, CancellationToken cancellationToken)
+        private readonly IBrandRepository _brandRepository;
+        private readonly IMapper _mapper;
+
+        public CreateBrandCommandHandlar(IBrandRepository brandRepository, IMapper mapper)
         {
-            throw new NotImplementedException();
+            _brandRepository = brandRepository;
+            _mapper = mapper;
+        }
+
+        public  async Task<CreatedBrandResponse> Handle(CreateBrandCommand request, CancellationToken cancellationToken)
+        {
+            var brand = _mapper.Map<Brand>(request);
+
+            brand.Id = Guid.NewGuid();
+
+
+             var result =_brandRepository.AddAsync(brand);
+
+
+            CreatedBrandResponse createdBrandResponse = new();
+
+            createdBrandResponse.Name = brand.Name;
+            createdBrandResponse.Id = brand.Id;
+
+            return createdBrandResponse;
         }
     }
 }
