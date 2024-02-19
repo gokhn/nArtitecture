@@ -1,0 +1,15 @@
+E:\GokhanGungor\GGGithubProjects\nArtitecture\corePackages\Core.Packages\Core.Application\bin\Debug\net7.0\Core.Application.deps.json
+E:\GokhanGungor\GGGithubProjects\nArtitecture\corePackages\Core.Packages\Core.Application\bin\Debug\net7.0\Core.Application.dll
+E:\GokhanGungor\GGGithubProjects\nArtitecture\corePackages\Core.Packages\Core.Application\bin\Debug\net7.0\Core.Application.pdb
+E:\GokhanGungor\GGGithubProjects\nArtitecture\corePackages\Core.Packages\Core.Application\obj\Debug\net7.0\Core.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\GokhanGungor\GGGithubProjects\nArtitecture\corePackages\Core.Packages\Core.Application\obj\Debug\net7.0\Core.Application.AssemblyInfoInputs.cache
+E:\GokhanGungor\GGGithubProjects\nArtitecture\corePackages\Core.Packages\Core.Application\obj\Debug\net7.0\Core.Application.AssemblyInfo.cs
+E:\GokhanGungor\GGGithubProjects\nArtitecture\corePackages\Core.Packages\Core.Application\obj\Debug\net7.0\Core.Application.csproj.CoreCompileInputs.cache
+E:\GokhanGungor\GGGithubProjects\nArtitecture\corePackages\Core.Packages\Core.Application\obj\Debug\net7.0\Core.Application.dll
+E:\GokhanGungor\GGGithubProjects\nArtitecture\corePackages\Core.Packages\Core.Application\obj\Debug\net7.0\refint\Core.Application.dll
+E:\GokhanGungor\GGGithubProjects\nArtitecture\corePackages\Core.Packages\Core.Application\obj\Debug\net7.0\Core.Application.pdb
+E:\GokhanGungor\GGGithubProjects\nArtitecture\corePackages\Core.Packages\Core.Application\obj\Debug\net7.0\ref\Core.Application.dll
+E:\GokhanGungor\GGGithubProjects\nArtitecture\corePackages\Core.Packages\Core.Application\bin\Debug\net7.0\Core.Persistence.dll
+E:\GokhanGungor\GGGithubProjects\nArtitecture\corePackages\Core.Packages\Core.Application\bin\Debug\net7.0\Core.Persistence.pdb
+E:\GokhanGungor\GGGithubProjects\nArtitecture\corePackages\Core.Packages\Core.Application\obj\Debug\net7.0\Core.Application.csproj.AssemblyReference.cache
+E:\GokhanGungor\GGGithubProjects\nArtitecture\corePackages\Core.Packages\Core.Application\obj\Debug\net7.0\Core.Application.csproj.CopyComplete

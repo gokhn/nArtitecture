@@ -34,11 +34,7 @@ namespace Application.Features.Brands.Commands.Create;
 
              var result =_brandRepository.AddAsync(brand);
 
-
-            CreatedBrandResponse createdBrandResponse = new();
-
-            createdBrandResponse.Name = brand.Name;
-            createdBrandResponse.Id = brand.Id;
+            CreatedBrandResponse createdBrandResponse =  _mapper.Map<CreatedBrandResponse>(result);
 
             return createdBrandResponse;
         }
