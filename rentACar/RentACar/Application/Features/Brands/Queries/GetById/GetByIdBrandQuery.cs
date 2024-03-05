@@ -1,5 +1,6 @@
 ﻿using Application.Services.Repositories;
 using AutoMapper;
+using Domain.Entities;
 using MediatR;
 using System;
 using System.Collections.Generic;
@@ -24,9 +25,12 @@ public class GetByIdBrandQuery: IRequest<GetByIdBrandResponse>
             _brandRepository = brandRepository;
         }
 
-        public Task<GetByIdBrandResponse> Handle(GetByIdBrandQuery request, CancellationToken cancellationToken)
+        public async Task<GetByIdBrandResponse> Handle(GetByIdBrandQuery request, CancellationToken cancellationToken)
         {
-            throw new NotImplementedException();
+            Brand? brand = await _brandRepository.GetAsync(w => w.Id == request.Id, cancellationToken: cancellationToken);
+
+            GetByIdBrandResponse response = _mapper.Map<GetByIdBrandResponse>(brand);
+            return response;
         }
     }
 

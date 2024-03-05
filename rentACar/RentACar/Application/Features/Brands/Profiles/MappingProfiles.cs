@@ -1,4 +1,6 @@
 ﻿using Application.Features.Brands.Commands.Create;
+using Application.Features.Brands.Commands.Update;
+using Application.Features.Brands.Queries.GetById;
 using Application.Features.Brands.Queries.GetList;
 using AutoMapper;
 using Core.Application.Responses;
@@ -16,9 +18,15 @@ public class MappingProfiles: Profile
 {
     public MappingProfiles()
     {
-            CreateMap<Brand,CreateBrandCommand>().ReverseMap(); //ReverseMap:  CreateBrandCommand -> Brand  Ters classa da reverse islemi yapmaktadır.
-            CreateMap<Brand,CreatedBrandResponse>().ReverseMap();
-            CreateMap<Brand, GetListBrandListItemDto>().ReverseMap();
-            CreateMap<Paginate<Brand>, GetListResponse<GetListBrandListItemDto>>().ReverseMap();
+        CreateMap<Brand,CreateBrandCommand>().ReverseMap(); //ReverseMap:  CreateBrandCommand -> Brand  Ters classa da reverse islemi yapmaktadır.
+        CreateMap<Brand,CreatedBrandResponse>().ReverseMap();
+            
+        CreateMap<Brand, GetListBrandListItemDto>().ReverseMap();
+        CreateMap<Paginate<Brand>, GetListResponse<GetListBrandListItemDto>>().ReverseMap();
+                
+        CreateMap<Brand, GetByIdBrandResponse>().ReverseMap();
+
+        CreateMap<Brand, UpdateBrandCommand>().ReverseMap();
+        CreateMap<Brand,UpdatedBrandResponse>().ReverseMap();
     }
 }
