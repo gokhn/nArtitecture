@@ -1,23 +1,29 @@
 ﻿using Core.Persistence.Respositories;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Runtime.ConstrainedExecution;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace Domain.Entities;
 
-    //Database Nesneleri
-
-    public class Brand :Entity<Guid>
-    {
+public class Fuel : Entity<Guid>
+{
     public string Name { get; set; }
 
     public virtual ICollection<Model> Models { get; set; }
 
-    public Brand()
+    public Fuel()
     {
         Models = new HashSet<Model>();
     }
-    //this() parametresiz olan constructor da calissin
-    public Brand(Guid id, string name) : this()
+
+    public Fuel(Guid id, string name)
+        : this()
     {
         Id = id;
         Name = name;
     }
+
 }

@@ -1,6 +1,7 @@
 ﻿using Application.Services.Repositories;
 using Core.Persistence.Respositories;
 using Domain.Entities;
+using Microsoft.EntityFrameworkCore.Metadata;
 using Persistence.Contexts;
 using System;
 using System.Collections.Generic;
