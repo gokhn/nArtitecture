@@ -84,3 +84,8 @@ E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\WebApi\bin\Debug
 E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\WebApi\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\WebApi\bin\Debug\net7.0\Core.Application.dll
 E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\WebApi\bin\Debug\net7.0\Core.Application.pdb
+E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\WebApi\bin\Debug\net7.0\Humanizer.dll
+E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\WebApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\WebApi\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\WebApi\bin\Debug\net7.0\System.CodeDom.dll

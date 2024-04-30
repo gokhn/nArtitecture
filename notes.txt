@@ -1,0 +1,8 @@
+
+
+  ** CodeFirst ile Db ve Table olusturma
+
+Nuget console üzerinden proje Peristence seçilip aşağıdaki sorgular çalıştırılır.
+
+add-migration
+update-database
