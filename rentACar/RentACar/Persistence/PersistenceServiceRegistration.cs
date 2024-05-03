@@ -16,6 +16,7 @@ public static class PersistenceServiceRegistration
         //services.AddDbContext<BaseDbContext>(options => options.UseInMemoryDatabase("nArtitecture"));
         services.AddDbContext<BaseDbContext>(options => options.UseSqlServer(configuration.GetConnectionString("RentACar")));
         services.AddScoped<IBrandRepository,BrandRepository>();
+        services.AddScoped<IModelRepository,ModelRepository>();
 
         return services;
     }

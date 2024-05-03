@@ -11,7 +11,7 @@ public partial class ModelConfiguration : IEntityTypeConfiguration<Model>
         builder.ToTable("Models");  //Tablo ismi belirleniyor
 
         builder.Property(b => b.Id).HasColumnName("Id").IsRequired(); // Brand nesnesindeki Id alanı tablodaki Id degerine karislik geliyor
-        builder.Property(b => b.Id).HasColumnName("Name").IsRequired();
+        builder.Property(b => b.Name).HasColumnName("Name").IsRequired();
 
         builder.Property(b => b.BrandId).HasColumnName("BrandId").IsRequired();
         builder.Property(b => b.FuelId).HasColumnName("FuelId").IsRequired();
@@ -21,9 +21,9 @@ public partial class ModelConfiguration : IEntityTypeConfiguration<Model>
 
 
 
-        builder.Property(b => b.Id).HasColumnName("CreatedDate").IsRequired();
-        builder.Property(b => b.Id).HasColumnName("UpdatedDate");
-        builder.Property(b => b.Id).HasColumnName("DeletedDate");
+        builder.Property(b => b.CreatedDate).HasColumnName("CreatedDate").IsRequired();
+        builder.Property(b => b.UpdatedDate).HasColumnName("UpdatedDate");
+        builder.Property(b => b.DeletedDate).HasColumnName("DeletedDate");
 
         builder.HasIndex(indexExpression: b => b.Name, name: "UK_Models_Name").IsUnique();
 

@@ -19,9 +19,9 @@ public partial class ModelConfiguration
             builder.Property(b => b.ModelYear).HasColumnName("ModelYear");
 
 
-            builder.Property(b => b.Id).HasColumnName("CreatedDate").IsRequired();
-            builder.Property(b => b.Id).HasColumnName("UpdatedDate");
-            builder.Property(b => b.Id).HasColumnName("DeletedDate");
+            builder.Property(b => b.CreatedDate).HasColumnName("CreatedDate").IsRequired();
+            builder.Property(b => b.UpdatedDate).HasColumnName("UpdatedDate");
+            builder.Property(b => b.DeletedDate).HasColumnName("DeletedDate");
 
 
             builder.HasOne(b => b.Model);

@@ -39,7 +39,7 @@ namespace Persistence.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(450)");
 
-                    b.Property<DateTime>("UpdatedDate")
+                    b.Property<DateTime?>("UpdatedDate")
                         .HasColumnType("datetime2");
 
                     b.HasKey("Id");
@@ -90,7 +90,7 @@ namespace Persistence.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<DateTime>("UpdatedDate")
+                    b.Property<DateTime?>("UpdatedDate")
                         .HasColumnType("datetime2");
 
                     b.HasKey("Id");
@@ -121,7 +121,7 @@ namespace Persistence.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(450)");
 
-                    b.Property<DateTime>("UpdatedDate")
+                    b.Property<DateTime?>("UpdatedDate")
                         .HasColumnType("datetime2");
 
                     b.HasKey("Id");
@@ -174,7 +174,7 @@ namespace Persistence.Migrations
                         .HasColumnType("uniqueidentifier")
                         .HasColumnName("TransmissionId");
 
-                    b.Property<DateTime>("UpdatedDate")
+                    b.Property<DateTime?>("UpdatedDate")
                         .HasColumnType("datetime2");
 
                     b.HasKey("Id");
@@ -212,7 +212,7 @@ namespace Persistence.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(450)");
 
-                    b.Property<DateTime>("UpdatedDate")
+                    b.Property<DateTime?>("UpdatedDate")
                         .HasColumnType("datetime2");
 
                     b.HasKey("Id");

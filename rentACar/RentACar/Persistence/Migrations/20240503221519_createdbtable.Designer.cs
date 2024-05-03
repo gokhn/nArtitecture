@@ -12,8 +12,8 @@ using Persistence.Contexts;
 namespace Persistence.Migrations
 {
     [DbContext(typeof(BaseDbContext))]
-    [Migration("20240430220241_init")]
-    partial class init
+    [Migration("20240503221519_createdbtable")]
+    partial class createdbtable
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -42,7 +42,7 @@ namespace Persistence.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(450)");
 
-                    b.Property<DateTime>("UpdatedDate")
+                    b.Property<DateTime?>("UpdatedDate")
                         .HasColumnType("datetime2");
 
                     b.HasKey("Id");
@@ -93,7 +93,7 @@ namespace Persistence.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<DateTime>("UpdatedDate")
+                    b.Property<DateTime?>("UpdatedDate")
                         .HasColumnType("datetime2");
 
                     b.HasKey("Id");
@@ -124,7 +124,7 @@ namespace Persistence.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(450)");
 
-                    b.Property<DateTime>("UpdatedDate")
+                    b.Property<DateTime?>("UpdatedDate")
                         .HasColumnType("datetime2");
 
                     b.HasKey("Id");
@@ -177,7 +177,7 @@ namespace Persistence.Migrations
                         .HasColumnType("uniqueidentifier")
                         .HasColumnName("TransmissionId");
 
-                    b.Property<DateTime>("UpdatedDate")
+                    b.Property<DateTime?>("UpdatedDate")
                         .HasColumnType("datetime2");
 
                     b.HasKey("Id");
@@ -215,7 +215,7 @@ namespace Persistence.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(450)");
 
-                    b.Property<DateTime>("UpdatedDate")
+                    b.Property<DateTime?>("UpdatedDate")
                         .HasColumnType("datetime2");
 
                     b.HasKey("Id");

@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace Persistence.Migrations
 {
     /// <inheritdoc />
-    public partial class init : Migration
+    public partial class createdbtable : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
@@ -18,7 +18,7 @@ namespace Persistence.Migrations
                     DeletedDate = table.Column<Guid>(type: "uniqueidentifier", nullable: false),
                     Name = table.Column<string>(type: "nvarchar(450)", nullable: false),
                     CreatedDate = table.Column<DateTime>(type: "datetime2", nullable: false),
-                    UpdatedDate = table.Column<DateTime>(type: "datetime2", nullable: false),
+                    UpdatedDate = table.Column<DateTime>(type: "datetime2", nullable: true),
                     DeletedDate1 = table.Column<DateTime>(type: "datetime2", nullable: true)
                 },
                 constraints: table =>
@@ -33,7 +33,7 @@ namespace Persistence.Migrations
                     DeletedDate = table.Column<Guid>(type: "uniqueidentifier", nullable: false),
                     Name = table.Column<string>(type: "nvarchar(450)", nullable: false),
                     CreatedDate = table.Column<DateTime>(type: "datetime2", nullable: false),
-                    UpdatedDate = table.Column<DateTime>(type: "datetime2", nullable: false),
+                    UpdatedDate = table.Column<DateTime>(type: "datetime2", nullable: true),
                     DeletedDate1 = table.Column<DateTime>(type: "datetime2", nullable: true)
                 },
                 constraints: table =>
@@ -48,7 +48,7 @@ namespace Persistence.Migrations
                     DeletedDate = table.Column<Guid>(type: "uniqueidentifier", nullable: false),
                     Name = table.Column<string>(type: "nvarchar(450)", nullable: false),
                     CreatedDate = table.Column<DateTime>(type: "datetime2", nullable: false),
-                    UpdatedDate = table.Column<DateTime>(type: "datetime2", nullable: false),
+                    UpdatedDate = table.Column<DateTime>(type: "datetime2", nullable: true),
                     DeletedDate1 = table.Column<DateTime>(type: "datetime2", nullable: true)
                 },
                 constraints: table =>
@@ -68,7 +68,7 @@ namespace Persistence.Migrations
                     DailyPrice = table.Column<decimal>(type: "decimal(18,2)", nullable: false),
                     ImageUrl = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     CreatedDate = table.Column<DateTime>(type: "datetime2", nullable: false),
-                    UpdatedDate = table.Column<DateTime>(type: "datetime2", nullable: false),
+                    UpdatedDate = table.Column<DateTime>(type: "datetime2", nullable: true),
                     DeletedDate1 = table.Column<DateTime>(type: "datetime2", nullable: true)
                 },
                 constraints: table =>
@@ -106,7 +106,7 @@ namespace Persistence.Migrations
                     MinFindexScore = table.Column<short>(type: "smallint", nullable: false),
                     State = table.Column<int>(type: "int", nullable: false),
                     CreatedDate = table.Column<DateTime>(type: "datetime2", nullable: false),
-                    UpdatedDate = table.Column<DateTime>(type: "datetime2", nullable: false),
+                    UpdatedDate = table.Column<DateTime>(type: "datetime2", nullable: true),
                     DeletedDate1 = table.Column<DateTime>(type: "datetime2", nullable: true)
                 },
                 constraints: table =>
