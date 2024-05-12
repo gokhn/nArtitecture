@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace Persistence.Migrations
 {
     /// <inheritdoc />
-    public partial class createdbtable : Migration
+    public partial class RentACarDb : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
@@ -15,52 +15,52 @@ namespace Persistence.Migrations
                 name: "Brands",
                 columns: table => new
                 {
-                    DeletedDate = table.Column<Guid>(type: "uniqueidentifier", nullable: false),
+                    Id = table.Column<Guid>(type: "uniqueidentifier", nullable: false),
                     Name = table.Column<string>(type: "nvarchar(450)", nullable: false),
                     CreatedDate = table.Column<DateTime>(type: "datetime2", nullable: false),
                     UpdatedDate = table.Column<DateTime>(type: "datetime2", nullable: true),
-                    DeletedDate1 = table.Column<DateTime>(type: "datetime2", nullable: true)
+                    DeletedDate = table.Column<DateTime>(type: "datetime2", nullable: true)
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_Brands", x => x.DeletedDate);
+                    table.PrimaryKey("PK_Brands", x => x.Id);
                 });
 
             migrationBuilder.CreateTable(
                 name: "Fuels",
                 columns: table => new
                 {
-                    DeletedDate = table.Column<Guid>(type: "uniqueidentifier", nullable: false),
+                    Id = table.Column<Guid>(type: "uniqueidentifier", nullable: false),
                     Name = table.Column<string>(type: "nvarchar(450)", nullable: false),
                     CreatedDate = table.Column<DateTime>(type: "datetime2", nullable: false),
                     UpdatedDate = table.Column<DateTime>(type: "datetime2", nullable: true),
-                    DeletedDate1 = table.Column<DateTime>(type: "datetime2", nullable: true)
+                    DeletedDate = table.Column<DateTime>(type: "datetime2", nullable: true)
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_Fuels", x => x.DeletedDate);
+                    table.PrimaryKey("PK_Fuels", x => x.Id);
                 });
 
             migrationBuilder.CreateTable(
                 name: "Transmissions",
                 columns: table => new
                 {
-                    DeletedDate = table.Column<Guid>(type: "uniqueidentifier", nullable: false),
+                    Id = table.Column<Guid>(type: "uniqueidentifier", nullable: false),
                     Name = table.Column<string>(type: "nvarchar(450)", nullable: false),
                     CreatedDate = table.Column<DateTime>(type: "datetime2", nullable: false),
                     UpdatedDate = table.Column<DateTime>(type: "datetime2", nullable: true),
-                    DeletedDate1 = table.Column<DateTime>(type: "datetime2", nullable: true)
+                    DeletedDate = table.Column<DateTime>(type: "datetime2", nullable: true)
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_Transmissions", x => x.DeletedDate);
+                    table.PrimaryKey("PK_Transmissions", x => x.Id);
                 });
 
             migrationBuilder.CreateTable(
                 name: "Models",
                 columns: table => new
                 {
-                    DeletedDate = table.Column<Guid>(type: "uniqueidentifier", nullable: false),
+                    Id = table.Column<Guid>(type: "uniqueidentifier", nullable: false),
                     BrandId = table.Column<Guid>(type: "uniqueidentifier", nullable: false),
                     FuelId = table.Column<Guid>(type: "uniqueidentifier", nullable: false),
                     TransmissionId = table.Column<Guid>(type: "uniqueidentifier", nullable: false),
@@ -69,28 +69,28 @@ namespace Persistence.Migrations
                     ImageUrl = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     CreatedDate = table.Column<DateTime>(type: "datetime2", nullable: false),
                     UpdatedDate = table.Column<DateTime>(type: "datetime2", nullable: true),
-                    DeletedDate1 = table.Column<DateTime>(type: "datetime2", nullable: true)
+                    DeletedDate = table.Column<DateTime>(type: "datetime2", nullable: true)
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_Models", x => x.DeletedDate);
+                    table.PrimaryKey("PK_Models", x => x.Id);
                     table.ForeignKey(
                         name: "FK_Models_Brands_BrandId",
                         column: x => x.BrandId,
                         principalTable: "Brands",
-                        principalColumn: "DeletedDate",
+                        principalColumn: "Id",
                         onDelete: ReferentialAction.Cascade);
                     table.ForeignKey(
                         name: "FK_Models_Fuels_FuelId",
                         column: x => x.FuelId,
                         principalTable: "Fuels",
-                        principalColumn: "DeletedDate",
+                        principalColumn: "Id",
                         onDelete: ReferentialAction.Cascade);
                     table.ForeignKey(
                         name: "FK_Models_Transmissions_TransmissionId",
                         column: x => x.TransmissionId,
                         principalTable: "Transmissions",
-                        principalColumn: "DeletedDate",
+                        principalColumn: "Id",
                         onDelete: ReferentialAction.Cascade);
                 });
 
@@ -98,7 +98,7 @@ namespace Persistence.Migrations
                 name: "Cars",
                 columns: table => new
                 {
-                    DeletedDate = table.Column<Guid>(type: "uniqueidentifier", nullable: false),
+                    Id = table.Column<Guid>(type: "uniqueidentifier", nullable: false),
                     ModelId = table.Column<Guid>(type: "uniqueidentifier", nullable: false),
                     Kilometer = table.Column<int>(type: "int", nullable: false),
                     ModelYear = table.Column<short>(type: "smallint", nullable: false),
@@ -107,16 +107,16 @@ namespace Persistence.Migrations
                     State = table.Column<int>(type: "int", nullable: false),
                     CreatedDate = table.Column<DateTime>(type: "datetime2", nullable: false),
                     UpdatedDate = table.Column<DateTime>(type: "datetime2", nullable: true),
-                    DeletedDate1 = table.Column<DateTime>(type: "datetime2", nullable: true)
+                    DeletedDate = table.Column<DateTime>(type: "datetime2", nullable: true)
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_Cars", x => x.DeletedDate);
+                    table.PrimaryKey("PK_Cars", x => x.Id);
                     table.ForeignKey(
                         name: "FK_Cars_Models_ModelId",
                         column: x => x.ModelId,
                         principalTable: "Models",
-                        principalColumn: "DeletedDate",
+                        principalColumn: "Id",
                         onDelete: ReferentialAction.Cascade);
                 });
 

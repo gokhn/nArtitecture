@@ -12,8 +12,8 @@ using Persistence.Contexts;
 namespace Persistence.Migrations
 {
     [DbContext(typeof(BaseDbContext))]
-    [Migration("20240503221519_createdbtable")]
-    partial class createdbtable
+    [Migration("20240512203947_RentACarDb")]
+    partial class RentACarDb
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -30,31 +30,31 @@ namespace Persistence.Migrations
                     b.Property<Guid>("Id")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("uniqueidentifier")
-                        .HasColumnName("DeletedDate");
+                        .HasColumnName("Id");
 
                     b.Property<DateTime>("CreatedDate")
-                        .HasColumnType("datetime2");
+                        .HasColumnType("datetime2")
+                        .HasColumnName("CreatedDate");
 
                     b.Property<DateTime?>("DeletedDate")
-                        .HasColumnType("datetime2");
+                        .HasColumnType("datetime2")
+                        .HasColumnName("DeletedDate");
 
                     b.Property<string>("Name")
                         .IsRequired()
-                        .HasColumnType("nvarchar(450)");
+                        .HasColumnType("nvarchar(450)")
+                        .HasColumnName("Name");
 
                     b.Property<DateTime?>("UpdatedDate")
-                        .HasColumnType("datetime2");
+                        .HasColumnType("datetime2")
+                        .HasColumnName("UpdatedDate");
 
                     b.HasKey("Id");
 
                     b.HasIndex(new[] { "Name" }, "UK_Brands_Name")
                         .IsUnique();
 
-                    b.ToTable("Brands", null, t =>
-                        {
-                            t.Property("DeletedDate")
-                                .HasColumnName("DeletedDate1");
-                        });
+                    b.ToTable("Brands", (string)null);
                 });
 
             modelBuilder.Entity("Domain.Entities.Car", b =>
@@ -62,17 +62,19 @@ namespace Persistence.Migrations
                     b.Property<Guid>("Id")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("uniqueidentifier")
-                        .HasColumnName("DeletedDate");
+                        .HasColumnName("Id");
 
                     b.Property<int>("CarState")
                         .HasColumnType("int")
                         .HasColumnName("State");
 
                     b.Property<DateTime>("CreatedDate")
-                        .HasColumnType("datetime2");
+                        .HasColumnType("datetime2")
+                        .HasColumnName("CreatedDate");
 
                     b.Property<DateTime?>("DeletedDate")
-                        .HasColumnType("datetime2");
+                        .HasColumnType("datetime2")
+                        .HasColumnName("DeletedDate");
 
                     b.Property<int>("Kilometer")
                         .HasColumnType("int")
@@ -94,17 +96,14 @@ namespace Persistence.Migrations
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<DateTime?>("UpdatedDate")
-                        .HasColumnType("datetime2");
+                        .HasColumnType("datetime2")
+                        .HasColumnName("UpdatedDate");
 
                     b.HasKey("Id");
 
                     b.HasIndex("ModelId");
 
-                    b.ToTable("Cars", null, t =>
-                        {
-                            t.Property("DeletedDate")
-                                .HasColumnName("DeletedDate1");
-                        });
+                    b.ToTable("Cars", (string)null);
                 });
 
             modelBuilder.Entity("Domain.Entities.Fuel", b =>
@@ -112,31 +111,31 @@ namespace Persistence.Migrations
                     b.Property<Guid>("Id")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("uniqueidentifier")
-                        .HasColumnName("DeletedDate");
+                        .HasColumnName("Id");
 
                     b.Property<DateTime>("CreatedDate")
-                        .HasColumnType("datetime2");
+                        .HasColumnType("datetime2")
+                        .HasColumnName("CreatedDate");
 
                     b.Property<DateTime?>("DeletedDate")
-                        .HasColumnType("datetime2");
+                        .HasColumnType("datetime2")
+                        .HasColumnName("DeletedDate");
 
                     b.Property<string>("Name")
                         .IsRequired()
-                        .HasColumnType("nvarchar(450)");
+                        .HasColumnType("nvarchar(450)")
+                        .HasColumnName("Name");
 
                     b.Property<DateTime?>("UpdatedDate")
-                        .HasColumnType("datetime2");
+                        .HasColumnType("datetime2")
+                        .HasColumnName("UpdatedDate");
 
                     b.HasKey("Id");
 
                     b.HasIndex(new[] { "Name" }, "UK_Fuels_Name")
                         .IsUnique();
 
-                    b.ToTable("Fuels", null, t =>
-                        {
-                            t.Property("DeletedDate")
-                                .HasColumnName("DeletedDate1");
-                        });
+                    b.ToTable("Fuels", (string)null);
                 });
 
             modelBuilder.Entity("Domain.Entities.Model", b =>
@@ -144,21 +143,23 @@ namespace Persistence.Migrations
                     b.Property<Guid>("Id")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("uniqueidentifier")
-                        .HasColumnName("DeletedDate");
+                        .HasColumnName("Id");
 
                     b.Property<Guid>("BrandId")
                         .HasColumnType("uniqueidentifier")
                         .HasColumnName("BrandId");
 
                     b.Property<DateTime>("CreatedDate")
-                        .HasColumnType("datetime2");
+                        .HasColumnType("datetime2")
+                        .HasColumnName("CreatedDate");
 
                     b.Property<decimal>("DailyPrice")
                         .HasColumnType("decimal(18,2)")
                         .HasColumnName("DailyPrice");
 
                     b.Property<DateTime?>("DeletedDate")
-                        .HasColumnType("datetime2");
+                        .HasColumnType("datetime2")
+                        .HasColumnName("DeletedDate");
 
                     b.Property<Guid>("FuelId")
                         .HasColumnType("uniqueidentifier")
@@ -171,14 +172,16 @@ namespace Persistence.Migrations
 
                     b.Property<string>("Name")
                         .IsRequired()
-                        .HasColumnType("nvarchar(450)");
+                        .HasColumnType("nvarchar(450)")
+                        .HasColumnName("Name");
 
                     b.Property<Guid>("TransmissionId")
                         .HasColumnType("uniqueidentifier")
                         .HasColumnName("TransmissionId");
 
                     b.Property<DateTime?>("UpdatedDate")
-                        .HasColumnType("datetime2");
+                        .HasColumnType("datetime2")
+                        .HasColumnName("UpdatedDate");
 
                     b.HasKey("Id");
 
@@ -191,11 +194,7 @@ namespace Persistence.Migrations
                     b.HasIndex(new[] { "Name" }, "UK_Models_Name")
                         .IsUnique();
 
-                    b.ToTable("Models", null, t =>
-                        {
-                            t.Property("DeletedDate")
-                                .HasColumnName("DeletedDate1");
-                        });
+                    b.ToTable("Models", (string)null);
                 });
 
             modelBuilder.Entity("Domain.Entities.Transmission", b =>
@@ -203,31 +202,31 @@ namespace Persistence.Migrations
                     b.Property<Guid>("Id")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("uniqueidentifier")
-                        .HasColumnName("DeletedDate");
+                        .HasColumnName("Id");
 
                     b.Property<DateTime>("CreatedDate")
-                        .HasColumnType("datetime2");
+                        .HasColumnType("datetime2")
+                        .HasColumnName("CreatedDate");
 
                     b.Property<DateTime?>("DeletedDate")
-                        .HasColumnType("datetime2");
+                        .HasColumnType("datetime2")
+                        .HasColumnName("DeletedDate");
 
                     b.Property<string>("Name")
                         .IsRequired()
-                        .HasColumnType("nvarchar(450)");
+                        .HasColumnType("nvarchar(450)")
+                        .HasColumnName("Name");
 
                     b.Property<DateTime?>("UpdatedDate")
-                        .HasColumnType("datetime2");
+                        .HasColumnType("datetime2")
+                        .HasColumnName("UpdatedDate");
 
                     b.HasKey("Id");
 
                     b.HasIndex(new[] { "Name" }, "UK_Transmissions_Name")
                         .IsUnique();
 
-                    b.ToTable("Transmissions", null, t =>
-                        {
-                            t.Property("DeletedDate")
-                                .HasColumnName("DeletedDate1");
-                        });
+                    b.ToTable("Transmissions", (string)null);
                 });
 
             modelBuilder.Entity("Domain.Entities.Car", b =>
