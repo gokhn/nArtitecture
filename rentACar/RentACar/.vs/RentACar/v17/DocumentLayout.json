@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\rentACar\\RentACar\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FBDD000D-2E4B-49A7-9380-7B48EF30F1A3}|WebApi\\WebApi.csproj|e:\\gokhangungor\\gggithubprojects\\nartitecture\\rentacar\\rentacar\\webapi\\controllers\\modelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBDD000D-2E4B-49A7-9380-7B48EF30F1A3}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\modelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA6C0046-5B93-4390-8C02-371AED9D94FF}|Domain\\Domain.csproj|e:\\gokhangungor\\gggithubprojects\\nartitecture\\rentacar\\rentacar\\domain\\entities\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA6C0046-5B93-4390-8C02-371AED9D94FF}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FBDD000D-2E4B-49A7-9380-7B48EF30F1A3}|WebApi\\WebApi.csproj|e:\\gokhangungor\\gggithubprojects\\nartitecture\\rentacar\\rentacar\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{FBDD000D-2E4B-49A7-9380-7B48EF30F1A3}|WebApi\\WebApi.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBDD000D-2E4B-49A7-9380-7B48EF30F1A3}|WebApi\\WebApi.csproj|e:\\gokhangungor\\gggithubprojects\\nartitecture\\rentacar\\rentacar\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBDD000D-2E4B-49A7-9380-7B48EF30F1A3}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A82AC291-06F7-4E57-9BEA-5AD718711B6B}|Persistence\\Persistence.csproj|e:\\gokhangungor\\gggithubprojects\\nartitecture\\rentacar\\rentacar\\persistence\\contexts\\basedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A82AC291-06F7-4E57-9BEA-5AD718711B6B}|Persistence\\Persistence.csproj|e:\\gokhangungor\\gggithubprojects\\nartitecture\\rentacar\\rentacar\\persistence\\entityconfigurations\\transmissionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A82AC291-06F7-4E57-9BEA-5AD718711B6B}|Persistence\\Persistence.csproj|solutionrelative:persistence\\entityconfigurations\\transmissionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FBDD000D-2E4B-49A7-9380-7B48EF30F1A3}|WebApi\\WebApi.csproj|e:\\gokhangungor\\gggithubprojects\\nartitecture\\rentacar\\rentacar\\webapi\\controllers\\modelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FBDD000D-2E4B-49A7-9380-7B48EF30F1A3}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\modelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1BC2A938-8603-45FB-97EF-AC70524F7688}|Application\\Application.csproj|e:\\gokhangungor\\gggithubprojects\\nartitecture\\rentacar\\rentacar\\application\\features\\models\\queries\\getlistbydynamic\\getlistbydynamicmodelquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -91,10 +99,6 @@
       "RelativeMoniker": "D:0:0:{CA6C0046-5B93-4390-8C02-371AED9D94FF}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA6C0046-5B93-4390-8C02-371AED9D94FF}|Domain\\Domain.csproj|e:\\gokhangungor\\gggithubprojects\\nartitecture\\rentacar\\rentacar\\domain\\entities\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA6C0046-5B93-4390-8C02-371AED9D94FF}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1BC2A938-8603-45FB-97EF-AC70524F7688}|Application\\Application.csproj|e:\\gokhangungor\\gggithubprojects\\nartitecture\\rentacar\\rentacar\\application\\features\\brands\\profiles\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1BC2A938-8603-45FB-97EF-AC70524F7688}|Application\\Application.csproj|solutionrelative:application\\features\\brands\\profiles\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -130,7 +134,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 27,
+          "SelectedChildIndex": 24,
           "Children": [
             {
               "$type": "Bookmark",
@@ -217,34 +221,25 @@
               "Name": "ST:0:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{99b8fa2f-ab90-4f57-9c32-949f146f1914}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "GetListByDynamicModelListItemDto.cs",
-              "DocumentMoniker": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\rentACar\\RentACar\\Application\\Features\\Models\\Queries\\GetListByDynamic\\GetListByDynamicModelListItemDto.cs",
-              "RelativeDocumentMoniker": "Application\\Features\\Models\\Queries\\GetListByDynamic\\GetListByDynamicModelListItemDto.cs",
-              "ToolTip": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\rentACar\\RentACar\\Application\\Features\\Models\\Queries\\GetListByDynamic\\GetListByDynamicModelListItemDto.cs",
-              "RelativeToolTip": "Application\\Features\\Models\\Queries\\GetListByDynamic\\GetListByDynamicModelListItemDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAtAAAA",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\rentACar\\RentACar\\WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi\\Program.cs",
+              "ToolTip": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\rentACar\\RentACar\\WebApi\\Program.cs",
+              "RelativeToolTip": "WebApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T21:03:24.897Z",
+              "WhenOpened": "2024-06-28T21:58:34.674Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "GetListModelQuery.cs",
-              "DocumentMoniker": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\rentACar\\RentACar\\Application\\Features\\Models\\Queries\\GetList\\GetListModelQuery.cs",
-              "RelativeDocumentMoniker": "Application\\Features\\Models\\Queries\\GetList\\GetListModelQuery.cs",
-              "ToolTip": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\rentACar\\RentACar\\Application\\Features\\Models\\Queries\\GetList\\GetListModelQuery.cs",
-              "RelativeToolTip": "Application\\Features\\Models\\Queries\\GetList\\GetListModelQuery.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T21:04:55.209Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "MappingProfiles.cs",
               "DocumentMoniker": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\rentACar\\RentACar\\Application\\Features\\Models\\Profiles\\MappingProfiles.cs",
               "RelativeDocumentMoniker": "Application\\Features\\Models\\Profiles\\MappingProfiles.cs",
@@ -252,25 +247,24 @@
               "RelativeToolTip": "Application\\Features\\Models\\Profiles\\MappingProfiles.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAB0AAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T21:18:53.319Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-01T21:18:53.319Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "ModelsController.cs",
               "DocumentMoniker": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\rentACar\\RentACar\\WebApi\\Controllers\\ModelsController.cs",
               "RelativeDocumentMoniker": "WebApi\\Controllers\\ModelsController.cs",
               "ToolTip": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\rentACar\\RentACar\\WebApi\\Controllers\\ModelsController.cs",
               "RelativeToolTip": "WebApi\\Controllers\\ModelsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAARAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAIAwwBMAAABWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-02T19:59:55.865Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "BaseDbContext.cs",
               "DocumentMoniker": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\rentACar\\RentACar\\Persistence\\Contexts\\BaseDbContext.cs",
               "RelativeDocumentMoniker": "Persistence\\Contexts\\BaseDbContext.cs",
@@ -278,12 +272,24 @@
               "RelativeToolTip": "Persistence\\Contexts\\BaseDbContext.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAByAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-03T21:21:07.056Z",
+              "WhenOpened": "2024-04-03T21:21:07.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\rentACar\\RentACar\\Domain\\Entities\\Brand.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Brand.cs",
+              "ToolTip": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\rentACar\\RentACar\\Domain\\Entities\\Brand.cs",
+              "RelativeToolTip": "Domain\\Entities\\Brand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T21:04:51.628Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "TransmissionConfiguration.cs",
               "DocumentMoniker": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\rentACar\\RentACar\\Persistence\\EntityConfigurations\\TransmissionConfiguration.cs",
               "RelativeDocumentMoniker": "Persistence\\EntityConfigurations\\TransmissionConfiguration.cs",
@@ -291,12 +297,11 @@
               "RelativeToolTip": "Persistence\\EntityConfigurations\\TransmissionConfiguration.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T21:13:23.583Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-30T21:13:23.583Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\rentACar\\RentACar\\WebApi\\appsettings.json",
               "RelativeDocumentMoniker": "WebApi\\appsettings.json",
@@ -309,7 +314,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
+              "Title": "GetListModelQuery.cs",
+              "DocumentMoniker": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\rentACar\\RentACar\\Application\\Features\\Models\\Queries\\GetList\\GetListModelQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Models\\Queries\\GetList\\GetListModelQuery.cs",
+              "ToolTip": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\rentACar\\RentACar\\Application\\Features\\Models\\Queries\\GetList\\GetListModelQuery.cs",
+              "RelativeToolTip": "Application\\Features\\Models\\Queries\\GetList\\GetListModelQuery.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T21:04:55.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "GetListByDynamicModelQuery.cs",
               "DocumentMoniker": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\rentACar\\RentACar\\Application\\Features\\Models\\Queries\\GetListByDynamic\\GetListByDynamicModelQuery.cs",
               "RelativeDocumentMoniker": "Application\\Features\\Models\\Queries\\GetListByDynamic\\GetListByDynamicModelQuery.cs",
@@ -317,16 +334,23 @@
               "RelativeToolTip": "Application\\Features\\Models\\Queries\\GetListByDynamic\\GetListByDynamicModelQuery.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-28T20:46:40.322Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{99b8fa2f-ab90-4f57-9c32-949f146f1914}"
+              "WhenOpened": "2024-06-28T20:46:40.322Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 7,
+              "Title": "GetListByDynamicModelListItemDto.cs",
+              "DocumentMoniker": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\rentACar\\RentACar\\Application\\Features\\Models\\Queries\\GetListByDynamic\\GetListByDynamicModelListItemDto.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Models\\Queries\\GetListByDynamic\\GetListByDynamicModelListItemDto.cs",
+              "ToolTip": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\rentACar\\RentACar\\Application\\Features\\Models\\Queries\\GetListByDynamic\\GetListByDynamicModelListItemDto.cs",
+              "RelativeToolTip": "Application\\Features\\Models\\Queries\\GetListByDynamic\\GetListByDynamicModelListItemDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T21:03:24.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "GetListBrandListItemDto.cs",
               "DocumentMoniker": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\rentACar\\RentACar\\Application\\Features\\Brands\\Queries\\GetList\\GetListBrandListItemDto.cs",
               "RelativeDocumentMoniker": "Application\\Features\\Brands\\Queries\\GetList\\GetListBrandListItemDto.cs",
@@ -334,12 +358,11 @@
               "RelativeToolTip": "Application\\Features\\Brands\\Queries\\GetList\\GetListBrandListItemDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-28T20:44:13.432Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-28T20:44:13.432Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "GetListBrandQuery.cs",
               "DocumentMoniker": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\rentACar\\RentACar\\Application\\Features\\Brands\\Queries\\GetList\\GetListBrandQuery.cs",
               "RelativeDocumentMoniker": "Application\\Features\\Brands\\Queries\\GetList\\GetListBrandQuery.cs",
@@ -347,12 +370,11 @@
               "RelativeToolTip": "Application\\Features\\Brands\\Queries\\GetList\\GetListBrandQuery.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-28T20:44:11.796Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-28T20:44:11.796Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "20240512203947_RentACarDb.cs",
               "DocumentMoniker": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\rentACar\\RentACar\\Persistence\\Migrations\\20240512203947_RentACarDb.cs",
               "RelativeDocumentMoniker": "Persistence\\Migrations\\20240512203947_RentACarDb.cs",
@@ -364,7 +386,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "ModelConfiguration.cs",
               "DocumentMoniker": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\rentACar\\RentACar\\Persistence\\EntityConfigurations\\ModelConfiguration.cs",
               "RelativeDocumentMoniker": "Persistence\\EntityConfigurations\\ModelConfiguration.cs",
@@ -376,7 +398,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "GetListModelListItemDto.cs",
               "DocumentMoniker": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\rentACar\\RentACar\\Application\\Features\\Models\\Queries\\GetList\\GetListModelListItemDto.cs",
               "RelativeDocumentMoniker": "Application\\Features\\Models\\Queries\\GetList\\GetListModelListItemDto.cs",
@@ -384,12 +406,11 @@
               "RelativeToolTip": "Application\\Features\\Models\\Queries\\GetList\\GetListModelListItemDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T21:01:24.41Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-01T21:01:24.41Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "FuelConfiguration.cs",
               "DocumentMoniker": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\rentACar\\RentACar\\Persistence\\EntityConfigurations\\FuelConfiguration.cs",
               "RelativeDocumentMoniker": "Persistence\\EntityConfigurations\\FuelConfiguration.cs",
@@ -401,7 +422,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "PersistenceServiceRegistration.cs",
               "DocumentMoniker": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\rentACar\\RentACar\\Persistence\\PersistenceServiceRegistration.cs",
               "RelativeDocumentMoniker": "Persistence\\PersistenceServiceRegistration.cs",
@@ -413,7 +434,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "CarConfiguration.cs",
               "DocumentMoniker": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\rentACar\\RentACar\\Persistence\\EntityConfigurations\\CarConfiguration.cs",
               "RelativeDocumentMoniker": "Persistence\\EntityConfigurations\\CarConfiguration.cs",
@@ -425,7 +446,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "BrandConfiguration.cs",
               "DocumentMoniker": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\rentACar\\RentACar\\Persistence\\EntityConfigurations\\BrandConfiguration.cs",
               "RelativeDocumentMoniker": "Persistence\\EntityConfigurations\\BrandConfiguration.cs",
@@ -437,7 +458,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "BrandRepository.cs",
               "DocumentMoniker": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\rentACar\\RentACar\\Persistence\\Repositories\\BrandRepository.cs",
               "RelativeDocumentMoniker": "Persistence\\Repositories\\BrandRepository.cs",
@@ -449,7 +470,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "Fuel.cs",
               "DocumentMoniker": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\rentACar\\RentACar\\Domain\\Entities\\Fuel.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\Fuel.cs",
@@ -461,7 +482,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "Transmission.cs",
               "DocumentMoniker": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\rentACar\\RentACar\\Domain\\Entities\\Transmission.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\Transmission.cs",
@@ -473,7 +494,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "Model.cs",
               "DocumentMoniker": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\rentACar\\RentACar\\Domain\\Entities\\Model.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\Model.cs",
@@ -485,7 +506,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "Car.cs",
               "DocumentMoniker": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\rentACar\\RentACar\\Domain\\Entities\\Car.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\Car.cs",
@@ -497,19 +518,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Brand.cs",
-              "DocumentMoniker": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\rentACar\\RentACar\\Domain\\Entities\\Brand.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\Brand.cs",
-              "ToolTip": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\rentACar\\RentACar\\Domain\\Entities\\Brand.cs",
-              "RelativeToolTip": "Domain\\Entities\\Brand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-03T21:04:51.628Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "CreateBrandCommand.cs",
               "DocumentMoniker": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\rentACar\\RentACar\\Application\\Features\\Brands\\Commands\\Create\\CreateBrandCommand.cs",
               "RelativeDocumentMoniker": "Application\\Features\\Brands\\Commands\\Create\\CreateBrandCommand.cs",
@@ -521,7 +530,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "MappingProfiles.cs",
               "DocumentMoniker": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\rentACar\\RentACar\\Application\\Features\\Brands\\Profiles\\MappingProfiles.cs",
               "RelativeDocumentMoniker": "Application\\Features\\Brands\\Profiles\\MappingProfiles.cs",
@@ -533,7 +542,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "ApplicationServiceRegistration.cs",
               "DocumentMoniker": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\rentACar\\RentACar\\Application\\ApplicationServiceRegistration.cs",
               "RelativeDocumentMoniker": "Application\\ApplicationServiceRegistration.cs",
@@ -545,7 +554,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "BrandsController.cs",
               "DocumentMoniker": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\rentACar\\RentACar\\WebApi\\Controllers\\BrandsController.cs",
               "RelativeDocumentMoniker": "WebApi\\Controllers\\BrandsController.cs",
@@ -557,7 +566,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "BaseController.cs",
               "DocumentMoniker": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\rentACar\\RentACar\\WebApi\\Controllers\\BaseController.cs",
               "RelativeDocumentMoniker": "WebApi\\Controllers\\BaseController.cs",
@@ -569,7 +578,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "IFuelRepository.cs",
               "DocumentMoniker": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\rentACar\\RentACar\\Application\\Services\\Repositories\\IFuelRepository.cs",
               "RelativeDocumentMoniker": "Application\\Services\\Repositories\\IFuelRepository.cs",
@@ -581,7 +590,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "IBrandRepository.cs",
               "DocumentMoniker": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\rentACar\\RentACar\\Application\\Services\\Repositories\\IBrandRepository.cs",
               "RelativeDocumentMoniker": "Application\\Services\\Repositories\\IBrandRepository.cs",

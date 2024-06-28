@@ -1,0 +1,349 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\corePackages\\Core.Packages\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB9BE55-E46D-4FA4-9388-1F47DFDFBFFB}|Core.Persistence\\Core.Persistence.csproj|e:\\gokhangungor\\gggithubprojects\\nartitecture\\corepackages\\core.packages\\core.persistence\\respositories\\ientitytimestamps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CB9BE55-E46D-4FA4-9388-1F47DFDFBFFB}|Core.Persistence\\Core.Persistence.csproj|solutionrelative:core.persistence\\respositories\\ientitytimestamps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB9BE55-E46D-4FA4-9388-1F47DFDFBFFB}|Core.Persistence\\Core.Persistence.csproj|e:\\gokhangungor\\gggithubprojects\\nartitecture\\corepackages\\core.packages\\core.persistence\\respositories\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CB9BE55-E46D-4FA4-9388-1F47DFDFBFFB}|Core.Persistence\\Core.Persistence.csproj|solutionrelative:core.persistence\\respositories\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FCE7D0D-0B4C-4081-8F6B-C8DCD2A5F0E7}|Core.Application\\Core.Application.csproj|e:\\gokhangungor\\gggithubprojects\\nartitecture\\corepackages\\core.packages\\core.application\\responses\\getlistresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FCE7D0D-0B4C-4081-8F6B-C8DCD2A5F0E7}|Core.Application\\Core.Application.csproj|solutionrelative:core.application\\responses\\getlistresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB9BE55-E46D-4FA4-9388-1F47DFDFBFFB}|Core.Persistence\\Core.Persistence.csproj|e:\\gokhangungor\\gggithubprojects\\nartitecture\\corepackages\\core.packages\\core.persistence\\paging\\basepageablemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CB9BE55-E46D-4FA4-9388-1F47DFDFBFFB}|Core.Persistence\\Core.Persistence.csproj|solutionrelative:core.persistence\\paging\\basepageablemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB9BE55-E46D-4FA4-9388-1F47DFDFBFFB}|Core.Persistence\\Core.Persistence.csproj|e:\\gokhangungor\\gggithubprojects\\nartitecture\\corepackages\\core.packages\\core.persistence\\paging\\paginate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CB9BE55-E46D-4FA4-9388-1F47DFDFBFFB}|Core.Persistence\\Core.Persistence.csproj|solutionrelative:core.persistence\\paging\\paginate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FCE7D0D-0B4C-4081-8F6B-C8DCD2A5F0E7}|Core.Application\\Core.Application.csproj|e:\\gokhangungor\\gggithubprojects\\nartitecture\\corepackages\\core.packages\\core.application\\requests\\pagerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FCE7D0D-0B4C-4081-8F6B-C8DCD2A5F0E7}|Core.Application\\Core.Application.csproj|solutionrelative:core.application\\requests\\pagerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB9BE55-E46D-4FA4-9388-1F47DFDFBFFB}|Core.Persistence\\Core.Persistence.csproj|e:\\gokhangungor\\gggithubprojects\\nartitecture\\corepackages\\core.packages\\core.persistence\\respositories\\efrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CB9BE55-E46D-4FA4-9388-1F47DFDFBFFB}|Core.Persistence\\Core.Persistence.csproj|solutionrelative:core.persistence\\respositories\\efrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB9BE55-E46D-4FA4-9388-1F47DFDFBFFB}|Core.Persistence\\Core.Persistence.csproj|e:\\gokhangungor\\gggithubprojects\\nartitecture\\corepackages\\core.packages\\core.persistence\\dynamic\\dynamicquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CB9BE55-E46D-4FA4-9388-1F47DFDFBFFB}|Core.Persistence\\Core.Persistence.csproj|solutionrelative:core.persistence\\dynamic\\dynamicquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB9BE55-E46D-4FA4-9388-1F47DFDFBFFB}|Core.Persistence\\Core.Persistence.csproj|e:\\gokhangungor\\gggithubprojects\\nartitecture\\corepackages\\core.packages\\core.persistence\\respositories\\iasyncrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CB9BE55-E46D-4FA4-9388-1F47DFDFBFFB}|Core.Persistence\\Core.Persistence.csproj|solutionrelative:core.persistence\\respositories\\iasyncrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB9BE55-E46D-4FA4-9388-1F47DFDFBFFB}|Core.Persistence\\Core.Persistence.csproj|e:\\gokhangungor\\gggithubprojects\\nartitecture\\corepackages\\core.packages\\core.persistence\\respositories\\iquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CB9BE55-E46D-4FA4-9388-1F47DFDFBFFB}|Core.Persistence\\Core.Persistence.csproj|solutionrelative:core.persistence\\respositories\\iquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB9BE55-E46D-4FA4-9388-1F47DFDFBFFB}|Core.Persistence\\Core.Persistence.csproj|e:\\gokhangungor\\gggithubprojects\\nartitecture\\corepackages\\core.packages\\core.persistence\\respositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CB9BE55-E46D-4FA4-9388-1F47DFDFBFFB}|Core.Persistence\\Core.Persistence.csproj|solutionrelative:core.persistence\\respositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB9BE55-E46D-4FA4-9388-1F47DFDFBFFB}|Core.Persistence\\Core.Persistence.csproj|e:\\gokhangungor\\gggithubprojects\\nartitecture\\corepackages\\core.packages\\core.persistence\\dynamic\\iqueryabledynamicfilterextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CB9BE55-E46D-4FA4-9388-1F47DFDFBFFB}|Core.Persistence\\Core.Persistence.csproj|solutionrelative:core.persistence\\dynamic\\iqueryabledynamicfilterextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB9BE55-E46D-4FA4-9388-1F47DFDFBFFB}|Core.Persistence\\Core.Persistence.csproj|e:\\gokhangungor\\gggithubprojects\\nartitecture\\corepackages\\core.packages\\core.persistence\\dynamic\\sort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CB9BE55-E46D-4FA4-9388-1F47DFDFBFFB}|Core.Persistence\\Core.Persistence.csproj|solutionrelative:core.persistence\\dynamic\\sort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB9BE55-E46D-4FA4-9388-1F47DFDFBFFB}|Core.Persistence\\Core.Persistence.csproj|e:\\gokhangungor\\gggithubprojects\\nartitecture\\corepackages\\core.packages\\core.persistence\\dynamic\\filter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CB9BE55-E46D-4FA4-9388-1F47DFDFBFFB}|Core.Persistence\\Core.Persistence.csproj|solutionrelative:core.persistence\\dynamic\\filter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB9BE55-E46D-4FA4-9388-1F47DFDFBFFB}|Core.Persistence\\Core.Persistence.csproj|e:\\gokhangungor\\gggithubprojects\\nartitecture\\corepackages\\core.packages\\core.persistence\\paging\\iqueryablepaginateextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CB9BE55-E46D-4FA4-9388-1F47DFDFBFFB}|Core.Persistence\\Core.Persistence.csproj|solutionrelative:core.persistence\\paging\\iqueryablepaginateextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 27,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{34c7837f-3b3a-449c-bdf0-bdad86cbaf4a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:16:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{99b8fa2f-ab90-4f57-9c32-949f146f1914}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BasePageableModel.cs",
+              "DocumentMoniker": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\corePackages\\Core.Packages\\Core.Persistence\\Paging\\BasePageableModel.cs",
+              "RelativeDocumentMoniker": "Core.Persistence\\Paging\\BasePageableModel.cs",
+              "ToolTip": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\corePackages\\Core.Packages\\Core.Persistence\\Paging\\BasePageableModel.cs",
+              "RelativeToolTip": "Core.Persistence\\Paging\\BasePageableModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T20:34:23.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetListResponse.cs",
+              "DocumentMoniker": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\corePackages\\Core.Packages\\Core.Application\\Responses\\GetListResponse.cs",
+              "RelativeDocumentMoniker": "Core.Application\\Responses\\GetListResponse.cs",
+              "ToolTip": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\corePackages\\Core.Packages\\Core.Application\\Responses\\GetListResponse.cs",
+              "RelativeToolTip": "Core.Application\\Responses\\GetListResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T20:31:20.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PageRequest.cs",
+              "DocumentMoniker": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\corePackages\\Core.Packages\\Core.Application\\Requests\\PageRequest.cs",
+              "RelativeDocumentMoniker": "Core.Application\\Requests\\PageRequest.cs",
+              "ToolTip": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\corePackages\\Core.Packages\\Core.Application\\Requests\\PageRequest.cs",
+              "RelativeToolTip": "Core.Application\\Requests\\PageRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T20:25:38.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\corePackages\\Core.Packages\\Core.Persistence\\Respositories\\Entity.cs",
+              "RelativeDocumentMoniker": "Core.Persistence\\Respositories\\Entity.cs",
+              "ToolTip": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\corePackages\\Core.Packages\\Core.Persistence\\Respositories\\Entity.cs",
+              "RelativeToolTip": "Core.Persistence\\Respositories\\Entity.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T05:24:16.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IAsyncRepository.cs",
+              "DocumentMoniker": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\corePackages\\Core.Packages\\Core.Persistence\\Respositories\\IAsyncRepository.cs",
+              "RelativeDocumentMoniker": "Core.Persistence\\Respositories\\IAsyncRepository.cs",
+              "ToolTip": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\corePackages\\Core.Packages\\Core.Persistence\\Respositories\\IAsyncRepository.cs",
+              "RelativeToolTip": "Core.Persistence\\Respositories\\IAsyncRepository.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAkwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T05:24:06.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IEntityTimestamps.cs",
+              "DocumentMoniker": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\corePackages\\Core.Packages\\Core.Persistence\\Respositories\\IEntityTimestamps.cs",
+              "RelativeDocumentMoniker": "Core.Persistence\\Respositories\\IEntityTimestamps.cs",
+              "ToolTip": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\corePackages\\Core.Packages\\Core.Persistence\\Respositories\\IEntityTimestamps.cs",
+              "RelativeToolTip": "Core.Persistence\\Respositories\\IEntityTimestamps.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T05:24:04.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EfRepositoryBase.cs",
+              "DocumentMoniker": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\corePackages\\Core.Packages\\Core.Persistence\\Respositories\\EfRepositoryBase.cs",
+              "RelativeDocumentMoniker": "Core.Persistence\\Respositories\\EfRepositoryBase.cs",
+              "ToolTip": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\corePackages\\Core.Packages\\Core.Persistence\\Respositories\\EfRepositoryBase.cs",
+              "RelativeToolTip": "Core.Persistence\\Respositories\\EfRepositoryBase.cs",
+              "ViewState": "AQIAAMwAAAAAAAAAAAAiwPEAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-26T20:28:09.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IQueryableDynamicFilterExtensions.cs",
+              "DocumentMoniker": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\corePackages\\Core.Packages\\Core.Persistence\\Dynamic\\IQueryableDynamicFilterExtensions.cs",
+              "RelativeDocumentMoniker": "Core.Persistence\\Dynamic\\IQueryableDynamicFilterExtensions.cs",
+              "ToolTip": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\corePackages\\Core.Packages\\Core.Persistence\\Dynamic\\IQueryableDynamicFilterExtensions.cs",
+              "RelativeToolTip": "Core.Persistence\\Dynamic\\IQueryableDynamicFilterExtensions.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAkwFwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-12T11:53:36.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Paginate.cs",
+              "DocumentMoniker": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\corePackages\\Core.Packages\\Core.Persistence\\Paging\\Paginate.cs",
+              "RelativeDocumentMoniker": "Core.Persistence\\Paging\\Paginate.cs",
+              "ToolTip": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\corePackages\\Core.Packages\\Core.Persistence\\Paging\\Paginate.cs",
+              "RelativeToolTip": "Core.Persistence\\Paging\\Paginate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-07T21:29:07.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DynamicQuery.cs",
+              "DocumentMoniker": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\corePackages\\Core.Packages\\Core.Persistence\\Dynamic\\DynamicQuery.cs",
+              "RelativeDocumentMoniker": "Core.Persistence\\Dynamic\\DynamicQuery.cs",
+              "ToolTip": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\corePackages\\Core.Packages\\Core.Persistence\\Dynamic\\DynamicQuery.cs",
+              "RelativeToolTip": "Core.Persistence\\Dynamic\\DynamicQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-12T11:25:22.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IQuery.cs",
+              "DocumentMoniker": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\corePackages\\Core.Packages\\Core.Persistence\\Respositories\\IQuery.cs",
+              "RelativeDocumentMoniker": "Core.Persistence\\Respositories\\IQuery.cs",
+              "ToolTip": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\corePackages\\Core.Packages\\Core.Persistence\\Respositories\\IQuery.cs",
+              "RelativeToolTip": "Core.Persistence\\Respositories\\IQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-07T21:18:57.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\corePackages\\Core.Packages\\Core.Persistence\\Respositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "Core.Persistence\\Respositories\\IRepository.cs",
+              "ToolTip": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\corePackages\\Core.Packages\\Core.Persistence\\Respositories\\IRepository.cs",
+              "RelativeToolTip": "Core.Persistence\\Respositories\\IRepository.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwCEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-07T21:17:25.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Filter.cs",
+              "DocumentMoniker": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\corePackages\\Core.Packages\\Core.Persistence\\Dynamic\\Filter.cs",
+              "RelativeDocumentMoniker": "Core.Persistence\\Dynamic\\Filter.cs",
+              "ToolTip": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\corePackages\\Core.Packages\\Core.Persistence\\Dynamic\\Filter.cs",
+              "RelativeToolTip": "Core.Persistence\\Dynamic\\Filter.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-12T11:13:29.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IQueryablePaginateExtensions.cs",
+              "DocumentMoniker": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\corePackages\\Core.Packages\\Core.Persistence\\Paging\\IQueryablePaginateExtensions.cs",
+              "RelativeDocumentMoniker": "Core.Persistence\\Paging\\IQueryablePaginateExtensions.cs",
+              "ToolTip": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\corePackages\\Core.Packages\\Core.Persistence\\Paging\\IQueryablePaginateExtensions.cs",
+              "RelativeToolTip": "Core.Persistence\\Paging\\IQueryablePaginateExtensions.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAowCMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-07T21:37:02.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Sort.cs",
+              "DocumentMoniker": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\corePackages\\Core.Packages\\Core.Persistence\\Dynamic\\Sort.cs",
+              "RelativeDocumentMoniker": "Core.Persistence\\Dynamic\\Sort.cs",
+              "ToolTip": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\corePackages\\Core.Packages\\Core.Persistence\\Dynamic\\Sort.cs",
+              "RelativeToolTip": "Core.Persistence\\Dynamic\\Sort.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-12T11:20:59.588Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
