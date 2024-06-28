@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "KXQ60XY9Peiw7xkubD+yXw6a8XwYWR/KCagdlUCsRaVVVVAZ3s7EGBpP1p0OzME7N8z61rLr+4em9x/eMnXUXg==",
+  "dgSpecHash": "HkrvAoOOTr4=",
   "success": true,
   "projectFilePath": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\rentACar\\RentACar\\Infrastructure\\Infrastructure.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\GOKHANGUNGOR\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.19\\microsoft.windowsdesktop.app.ref.7.0.19.nupkg.sha512",
+    "C:\\Users\\GOKHANGUNGOR\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.19\\microsoft.netcore.app.ref.7.0.19.nupkg.sha512",
+    "C:\\Users\\GOKHANGUNGOR\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.19\\microsoft.aspnetcore.app.ref.7.0.19.nupkg.sha512"
+  ],
   "logs": []
 }

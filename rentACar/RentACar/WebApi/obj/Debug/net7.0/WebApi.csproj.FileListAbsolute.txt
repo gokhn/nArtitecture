@@ -24,7 +24,6 @@ E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\WebApi\obj\Debug
 E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\WebApi\obj\Debug\net7.0\staticwebassets.build.json
 E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\WebApi\obj\Debug\net7.0\staticwebassets.development.json
 E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\WebApi\obj\Debug\net7.0\scopedcss\bundle\WebApi.styles.css
-E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\WebApi\obj\Debug\net7.0\WebApi.csproj.CopyComplete
 E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\WebApi\obj\Debug\net7.0\WebApi.dll
 E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\WebApi\obj\Debug\net7.0\refint\WebApi.dll
 E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\WebApi\obj\Debug\net7.0\WebApi.pdb
@@ -89,3 +88,5 @@ E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\WebApi\bin\Debug
 E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\WebApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
 E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\WebApi\bin\Debug\net7.0\Mono.TextTemplating.dll
 E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\WebApi\bin\Debug\net7.0\System.CodeDom.dll
+E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\WebApi\obj\Debug\net7.0\WebApi.sourcelink.json
+E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\WebApi\obj\Debug\net7.0\WebApi.csproj.Up2Date

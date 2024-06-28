@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "TZpI84Z7X5RsQdxhwPOI9L3ygNNdOieMNLj93hItPxDqDILKv+E6kQVDGhLbTSMYl+Gf5mup6oEFJm37besgsg==",
+  "dgSpecHash": "z9On8qQ6sIk=",
   "success": true,
   "projectFilePath": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\rentACar\\RentACar\\Application\\Application.csproj",
   "expectedPackageFiles": [
@@ -19,7 +19,10 @@
     "C:\\Users\\GOKHANGUNGOR\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\microsoft.extensions.logging.7.0.0.nupkg.sha512",
     "C:\\Users\\GOKHANGUNGOR\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\GOKHANGUNGOR\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
-    "C:\\Users\\GOKHANGUNGOR\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512"
+    "C:\\Users\\GOKHANGUNGOR\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\GOKHANGUNGOR\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.19\\microsoft.windowsdesktop.app.ref.7.0.19.nupkg.sha512",
+    "C:\\Users\\GOKHANGUNGOR\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.19\\microsoft.netcore.app.ref.7.0.19.nupkg.sha512",
+    "C:\\Users\\GOKHANGUNGOR\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.19\\microsoft.aspnetcore.app.ref.7.0.19.nupkg.sha512"
   ],
   "logs": []
 }

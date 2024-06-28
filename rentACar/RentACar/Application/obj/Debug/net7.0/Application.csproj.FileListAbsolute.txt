@@ -14,6 +14,7 @@ E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\Application\bin\
 E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\Application\bin\Debug\net7.0\Domain.dll
 E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\Application\bin\Debug\net7.0\Domain.pdb
 E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\Application\bin\Debug\net7.0\Core.Persistence.pdb
-E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\Application\obj\Debug\net7.0\Application.csproj.CopyComplete
 E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\Application\bin\Debug\net7.0\Core.Application.dll
 E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\Application\bin\Debug\net7.0\Core.Application.pdb
+E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\Application\obj\Debug\net7.0\Application.sourcelink.json
+E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\Application\obj\Debug\net7.0\Applicat.44B5EDA2.Up2Date
