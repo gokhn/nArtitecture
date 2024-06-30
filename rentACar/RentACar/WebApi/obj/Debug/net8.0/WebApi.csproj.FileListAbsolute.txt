@@ -151,3 +151,6 @@ E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\WebApi\obj\Debug
 E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\WebApi\obj\Debug\net8.0\WebApi.pdb
 E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\WebApi\obj\Debug\net8.0\WebApi.genruntimeconfig.cache
 E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\WebApi\obj\Debug\net8.0\ref\WebApi.dll
+E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\WebApi\bin\Debug\net8.0\System.Linq.Dynamic.Core.dll
+E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\WebApi\bin\Debug\net8.0\Core.CrossCuttingConcerns.dll
+E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\WebApi\bin\Debug\net8.0\Core.CrossCuttingConcerns.pdb

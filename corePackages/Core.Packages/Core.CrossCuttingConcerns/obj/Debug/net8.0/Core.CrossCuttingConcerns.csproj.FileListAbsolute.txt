@@ -1,0 +1,12 @@
+E:\GokhanGungor\GGGithubProjects\nArtitecture\corePackages\Core.Packages\Core.CrossCuttingConcerns\bin\Debug\net8.0\Core.CrossCuttingConcerns.deps.json
+E:\GokhanGungor\GGGithubProjects\nArtitecture\corePackages\Core.Packages\Core.CrossCuttingConcerns\bin\Debug\net8.0\Core.CrossCuttingConcerns.dll
+E:\GokhanGungor\GGGithubProjects\nArtitecture\corePackages\Core.Packages\Core.CrossCuttingConcerns\bin\Debug\net8.0\Core.CrossCuttingConcerns.pdb
+E:\GokhanGungor\GGGithubProjects\nArtitecture\corePackages\Core.Packages\Core.CrossCuttingConcerns\obj\Debug\net8.0\Core.CrossCuttingConcerns.GeneratedMSBuildEditorConfig.editorconfig
+E:\GokhanGungor\GGGithubProjects\nArtitecture\corePackages\Core.Packages\Core.CrossCuttingConcerns\obj\Debug\net8.0\Core.CrossCuttingConcerns.AssemblyInfoInputs.cache
+E:\GokhanGungor\GGGithubProjects\nArtitecture\corePackages\Core.Packages\Core.CrossCuttingConcerns\obj\Debug\net8.0\Core.CrossCuttingConcerns.AssemblyInfo.cs
+E:\GokhanGungor\GGGithubProjects\nArtitecture\corePackages\Core.Packages\Core.CrossCuttingConcerns\obj\Debug\net8.0\Core.CrossCuttingConcerns.csproj.CoreCompileInputs.cache
+E:\GokhanGungor\GGGithubProjects\nArtitecture\corePackages\Core.Packages\Core.CrossCuttingConcerns\obj\Debug\net8.0\Core.CrossCuttingConcerns.sourcelink.json
+E:\GokhanGungor\GGGithubProjects\nArtitecture\corePackages\Core.Packages\Core.CrossCuttingConcerns\obj\Debug\net8.0\Core.CrossCuttingConcerns.dll
+E:\GokhanGungor\GGGithubProjects\nArtitecture\corePackages\Core.Packages\Core.CrossCuttingConcerns\obj\Debug\net8.0\refint\Core.CrossCuttingConcerns.dll
+E:\GokhanGungor\GGGithubProjects\nArtitecture\corePackages\Core.Packages\Core.CrossCuttingConcerns\obj\Debug\net8.0\Core.CrossCuttingConcerns.pdb
+E:\GokhanGungor\GGGithubProjects\nArtitecture\corePackages\Core.Packages\Core.CrossCuttingConcerns\obj\Debug\net8.0\ref\Core.CrossCuttingConcerns.dll

@@ -18,3 +18,5 @@ E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\Application\obj\
 E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\Application\obj\Debug\net8.0\refint\Application.dll
 E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\Application\obj\Debug\net8.0\Application.pdb
 E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\Application\obj\Debug\net8.0\ref\Application.dll
+E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\Application\bin\Debug\net8.0\Core.CrossCuttingConcerns.dll
+E:\GokhanGungor\GGGithubProjects\nArtitecture\rentACar\RentACar\Application\bin\Debug\net8.0\Core.CrossCuttingConcerns.pdb
