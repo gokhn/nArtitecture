@@ -10,3 +10,16 @@ E:\GokhanGungor\GGGithubProjects\nArtitecture\corePackages\Core.Packages\Core.Cr
 E:\GokhanGungor\GGGithubProjects\nArtitecture\corePackages\Core.Packages\Core.CrossCuttingConcerns\obj\Debug\net8.0\refint\Core.CrossCuttingConcerns.dll
 E:\GokhanGungor\GGGithubProjects\nArtitecture\corePackages\Core.Packages\Core.CrossCuttingConcerns\obj\Debug\net8.0\Core.CrossCuttingConcerns.pdb
 E:\GokhanGungor\GGGithubProjects\nArtitecture\corePackages\Core.Packages\Core.CrossCuttingConcerns\obj\Debug\net8.0\ref\Core.CrossCuttingConcerns.dll
+C:\GGUNGOR\MyGithubRepositories\nArtitecture\corePackages\Core.Packages\Core.CrossCuttingConcerns\bin\Debug\net8.0\Core.CrossCuttingConcerns.deps.json
+C:\GGUNGOR\MyGithubRepositories\nArtitecture\corePackages\Core.Packages\Core.CrossCuttingConcerns\bin\Debug\net8.0\Core.CrossCuttingConcerns.dll
+C:\GGUNGOR\MyGithubRepositories\nArtitecture\corePackages\Core.Packages\Core.CrossCuttingConcerns\bin\Debug\net8.0\Core.CrossCuttingConcerns.pdb
+C:\GGUNGOR\MyGithubRepositories\nArtitecture\corePackages\Core.Packages\Core.CrossCuttingConcerns\obj\Debug\net8.0\Core.CrossCuttingConcerns.GeneratedMSBuildEditorConfig.editorconfig
+C:\GGUNGOR\MyGithubRepositories\nArtitecture\corePackages\Core.Packages\Core.CrossCuttingConcerns\obj\Debug\net8.0\Core.CrossCuttingConcerns.AssemblyInfoInputs.cache
+C:\GGUNGOR\MyGithubRepositories\nArtitecture\corePackages\Core.Packages\Core.CrossCuttingConcerns\obj\Debug\net8.0\Core.CrossCuttingConcerns.AssemblyInfo.cs
+C:\GGUNGOR\MyGithubRepositories\nArtitecture\corePackages\Core.Packages\Core.CrossCuttingConcerns\obj\Debug\net8.0\Core.CrossCuttingConcerns.csproj.CoreCompileInputs.cache
+C:\GGUNGOR\MyGithubRepositories\nArtitecture\corePackages\Core.Packages\Core.CrossCuttingConcerns\obj\Debug\net8.0\Core.CrossCuttingConcerns.sourcelink.json
+C:\GGUNGOR\MyGithubRepositories\nArtitecture\corePackages\Core.Packages\Core.CrossCuttingConcerns\obj\Debug\net8.0\Core.CrossCuttingConcerns.dll
+C:\GGUNGOR\MyGithubRepositories\nArtitecture\corePackages\Core.Packages\Core.CrossCuttingConcerns\obj\Debug\net8.0\refint\Core.CrossCuttingConcerns.dll
+C:\GGUNGOR\MyGithubRepositories\nArtitecture\corePackages\Core.Packages\Core.CrossCuttingConcerns\obj\Debug\net8.0\Core.CrossCuttingConcerns.pdb
+C:\GGUNGOR\MyGithubRepositories\nArtitecture\corePackages\Core.Packages\Core.CrossCuttingConcerns\obj\Debug\net8.0\ref\Core.CrossCuttingConcerns.dll
+C:\GGUNGOR\MyGithubRepositories\nArtitecture\corePackages\Core.Packages\Core.CrossCuttingConcerns\obj\Debug\net8.0\Core.CrossCuttingConcerns.csproj.AssemblyReference.cache

@@ -11,3 +11,16 @@ E:\GokhanGungor\GGGithubProjects\nArtitecture\corePackages\Core.Packages\Core.Pe
 E:\GokhanGungor\GGGithubProjects\nArtitecture\corePackages\Core.Packages\Core.Persistence\obj\Debug\net8.0\refint\Core.Persistence.dll
 E:\GokhanGungor\GGGithubProjects\nArtitecture\corePackages\Core.Packages\Core.Persistence\obj\Debug\net8.0\Core.Persistence.pdb
 E:\GokhanGungor\GGGithubProjects\nArtitecture\corePackages\Core.Packages\Core.Persistence\obj\Debug\net8.0\ref\Core.Persistence.dll
+C:\GGUNGOR\MyGithubRepositories\nArtitecture\corePackages\Core.Packages\Core.Persistence\bin\Debug\net8.0\Core.Persistence.deps.json
+C:\GGUNGOR\MyGithubRepositories\nArtitecture\corePackages\Core.Packages\Core.Persistence\bin\Debug\net8.0\Core.Persistence.dll
+C:\GGUNGOR\MyGithubRepositories\nArtitecture\corePackages\Core.Packages\Core.Persistence\bin\Debug\net8.0\Core.Persistence.pdb
+C:\GGUNGOR\MyGithubRepositories\nArtitecture\corePackages\Core.Packages\Core.Persistence\obj\Debug\net8.0\Core.Persistence.csproj.AssemblyReference.cache
+C:\GGUNGOR\MyGithubRepositories\nArtitecture\corePackages\Core.Packages\Core.Persistence\obj\Debug\net8.0\Core.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\GGUNGOR\MyGithubRepositories\nArtitecture\corePackages\Core.Packages\Core.Persistence\obj\Debug\net8.0\Core.Persistence.AssemblyInfoInputs.cache
+C:\GGUNGOR\MyGithubRepositories\nArtitecture\corePackages\Core.Packages\Core.Persistence\obj\Debug\net8.0\Core.Persistence.AssemblyInfo.cs
+C:\GGUNGOR\MyGithubRepositories\nArtitecture\corePackages\Core.Packages\Core.Persistence\obj\Debug\net8.0\Core.Persistence.csproj.CoreCompileInputs.cache
+C:\GGUNGOR\MyGithubRepositories\nArtitecture\corePackages\Core.Packages\Core.Persistence\obj\Debug\net8.0\Core.Persistence.sourcelink.json
+C:\GGUNGOR\MyGithubRepositories\nArtitecture\corePackages\Core.Packages\Core.Persistence\obj\Debug\net8.0\Core.Persistence.dll
+C:\GGUNGOR\MyGithubRepositories\nArtitecture\corePackages\Core.Packages\Core.Persistence\obj\Debug\net8.0\refint\Core.Persistence.dll
+C:\GGUNGOR\MyGithubRepositories\nArtitecture\corePackages\Core.Packages\Core.Persistence\obj\Debug\net8.0\Core.Persistence.pdb
+C:\GGUNGOR\MyGithubRepositories\nArtitecture\corePackages\Core.Packages\Core.Persistence\obj\Debug\net8.0\ref\Core.Persistence.dll

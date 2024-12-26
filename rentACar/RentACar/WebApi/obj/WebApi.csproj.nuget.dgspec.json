@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\rentACar\\RentACar\\WebApi\\WebApi.csproj": {}
+    "C:\\GGUNGOR\\MyGithubRepositories\\nArtitecture\\rentACar\\RentACar\\WebApi\\WebApi.csproj": {}
   },
   "projects": {
-    "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\rentACar\\RentACar\\Application\\Application.csproj": {
+    "C:\\GGUNGOR\\MyGithubRepositories\\nArtitecture\\rentACar\\RentACar\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\rentACar\\RentACar\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\GGUNGOR\\MyGithubRepositories\\nArtitecture\\rentACar\\RentACar\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\rentACar\\RentACar\\Application\\Application.csproj",
-        "packagesPath": "C:\\Users\\GOKHANGUNGOR\\.nuget\\packages\\",
-        "outputPath": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\rentACar\\RentACar\\Application\\obj\\",
+        "projectPath": "C:\\GGUNGOR\\MyGithubRepositories\\nArtitecture\\rentACar\\RentACar\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\gokhn_1ucg86w\\.nuget\\packages\\",
+        "outputPath": "C:\\GGUNGOR\\MyGithubRepositories\\nArtitecture\\rentACar\\RentACar\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\GOKHANGUNGOR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\gokhn_1ucg86w\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -25,16 +26,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://www.nuget.org/api/v2/": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\rentACar\\RentACar\\Domain\\Domain.csproj": {
-                "projectPath": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\rentACar\\RentACar\\Domain\\Domain.csproj"
+              "C:\\GGUNGOR\\MyGithubRepositories\\nArtitecture\\rentACar\\RentACar\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\GGUNGOR\\MyGithubRepositories\\nArtitecture\\rentACar\\RentACar\\Domain\\Domain.csproj"
               }
             }
           }
@@ -48,7 +47,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -87,24 +87,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\rentACar\\RentACar\\Domain\\Domain.csproj": {
+    "C:\\GGUNGOR\\MyGithubRepositories\\nArtitecture\\rentACar\\RentACar\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\rentACar\\RentACar\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\GGUNGOR\\MyGithubRepositories\\nArtitecture\\rentACar\\RentACar\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\rentACar\\RentACar\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\GOKHANGUNGOR\\.nuget\\packages\\",
-        "outputPath": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\rentACar\\RentACar\\Domain\\obj\\",
+        "projectPath": "C:\\GGUNGOR\\MyGithubRepositories\\nArtitecture\\rentACar\\RentACar\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\gokhn_1ucg86w\\.nuget\\packages\\",
+        "outputPath": "C:\\GGUNGOR\\MyGithubRepositories\\nArtitecture\\rentACar\\RentACar\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\GOKHANGUNGOR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\gokhn_1ucg86w\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -112,9 +113,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://www.nuget.org/api/v2/": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
@@ -131,7 +130,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -152,24 +152,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\rentACar\\RentACar\\Persistence\\Persistence.csproj": {
+    "C:\\GGUNGOR\\MyGithubRepositories\\nArtitecture\\rentACar\\RentACar\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\rentACar\\RentACar\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "C:\\GGUNGOR\\MyGithubRepositories\\nArtitecture\\rentACar\\RentACar\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\rentACar\\RentACar\\Persistence\\Persistence.csproj",
-        "packagesPath": "C:\\Users\\GOKHANGUNGOR\\.nuget\\packages\\",
-        "outputPath": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\rentACar\\RentACar\\Persistence\\obj\\",
+        "projectPath": "C:\\GGUNGOR\\MyGithubRepositories\\nArtitecture\\rentACar\\RentACar\\Persistence\\Persistence.csproj",
+        "packagesPath": "C:\\Users\\gokhn_1ucg86w\\.nuget\\packages\\",
+        "outputPath": "C:\\GGUNGOR\\MyGithubRepositories\\nArtitecture\\rentACar\\RentACar\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\GOKHANGUNGOR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\gokhn_1ucg86w\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -177,19 +178,17 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://www.nuget.org/api/v2/": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\rentACar\\RentACar\\Application\\Application.csproj": {
-                "projectPath": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\rentACar\\RentACar\\Application\\Application.csproj"
+              "C:\\GGUNGOR\\MyGithubRepositories\\nArtitecture\\rentACar\\RentACar\\Application\\Application.csproj": {
+                "projectPath": "C:\\GGUNGOR\\MyGithubRepositories\\nArtitecture\\rentACar\\RentACar\\Application\\Application.csproj"
               },
-              "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\rentACar\\RentACar\\Domain\\Domain.csproj": {
-                "projectPath": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\rentACar\\RentACar\\Domain\\Domain.csproj"
+              "C:\\GGUNGOR\\MyGithubRepositories\\nArtitecture\\rentACar\\RentACar\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\GGUNGOR\\MyGithubRepositories\\nArtitecture\\rentACar\\RentACar\\Domain\\Domain.csproj"
               }
             }
           }
@@ -203,7 +202,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -242,24 +242,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\rentACar\\RentACar\\WebApi\\WebApi.csproj": {
+    "C:\\GGUNGOR\\MyGithubRepositories\\nArtitecture\\rentACar\\RentACar\\WebApi\\WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\rentACar\\RentACar\\WebApi\\WebApi.csproj",
+        "projectUniqueName": "C:\\GGUNGOR\\MyGithubRepositories\\nArtitecture\\rentACar\\RentACar\\WebApi\\WebApi.csproj",
         "projectName": "WebApi",
-        "projectPath": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\rentACar\\RentACar\\WebApi\\WebApi.csproj",
-        "packagesPath": "C:\\Users\\GOKHANGUNGOR\\.nuget\\packages\\",
-        "outputPath": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\rentACar\\RentACar\\WebApi\\obj\\",
+        "projectPath": "C:\\GGUNGOR\\MyGithubRepositories\\nArtitecture\\rentACar\\RentACar\\WebApi\\WebApi.csproj",
+        "packagesPath": "C:\\Users\\gokhn_1ucg86w\\.nuget\\packages\\",
+        "outputPath": "C:\\GGUNGOR\\MyGithubRepositories\\nArtitecture\\rentACar\\RentACar\\WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\GOKHANGUNGOR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\gokhn_1ucg86w\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -267,19 +268,17 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://www.nuget.org/api/v2/": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\rentACar\\RentACar\\Application\\Application.csproj": {
-                "projectPath": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\rentACar\\RentACar\\Application\\Application.csproj"
+              "C:\\GGUNGOR\\MyGithubRepositories\\nArtitecture\\rentACar\\RentACar\\Application\\Application.csproj": {
+                "projectPath": "C:\\GGUNGOR\\MyGithubRepositories\\nArtitecture\\rentACar\\RentACar\\Application\\Application.csproj"
               },
-              "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\rentACar\\RentACar\\Persistence\\Persistence.csproj": {
-                "projectPath": "E:\\GokhanGungor\\GGGithubProjects\\nArtitecture\\rentACar\\RentACar\\Persistence\\Persistence.csproj"
+              "C:\\GGUNGOR\\MyGithubRepositories\\nArtitecture\\rentACar\\RentACar\\Persistence\\Persistence.csproj": {
+                "projectPath": "C:\\GGUNGOR\\MyGithubRepositories\\nArtitecture\\rentACar\\RentACar\\Persistence\\Persistence.csproj"
               }
             }
           }
@@ -293,7 +292,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -337,7 +337,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

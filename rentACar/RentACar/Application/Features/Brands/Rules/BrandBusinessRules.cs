@@ -26,7 +26,7 @@ public class BrandBusinessRules : BaseBusinessRules
 
         if (result != null) 
         {
-           throw new BusinessExceptions(BrandMessages.BrandNameExists);
+           throw new BusinessException(BrandMessages.BrandNameExists);
         }
     }
 }
