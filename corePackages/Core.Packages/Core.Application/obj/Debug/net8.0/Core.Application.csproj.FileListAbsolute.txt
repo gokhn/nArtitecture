@@ -30,3 +30,5 @@ C:\GGUNGOR\MyGithubRepositories\nArtitecture\corePackages\Core.Packages\Core.App
 C:\GGUNGOR\MyGithubRepositories\nArtitecture\corePackages\Core.Packages\Core.Application\obj\Debug\net8.0\refint\Core.Application.dll
 C:\GGUNGOR\MyGithubRepositories\nArtitecture\corePackages\Core.Packages\Core.Application\obj\Debug\net8.0\Core.Application.pdb
 C:\GGUNGOR\MyGithubRepositories\nArtitecture\corePackages\Core.Packages\Core.Application\obj\Debug\net8.0\ref\Core.Application.dll
+C:\GGUNGOR\MyGithubRepositories\nArtitecture\corePackages\Core.Packages\Core.Application\bin\Debug\net8.0\Core.CrossCuttingConcerns.dll
+C:\GGUNGOR\MyGithubRepositories\nArtitecture\corePackages\Core.Packages\Core.Application\bin\Debug\net8.0\Core.CrossCuttingConcerns.pdb
