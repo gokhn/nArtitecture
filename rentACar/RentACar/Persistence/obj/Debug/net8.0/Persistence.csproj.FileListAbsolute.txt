@@ -46,3 +46,5 @@ C:\GGUNGOR\MyGithubRepositories\nArtitecture\rentACar\RentACar\Persistence\obj\D
 C:\GGUNGOR\MyGithubRepositories\nArtitecture\rentACar\RentACar\Persistence\obj\Debug\net8.0\refint\Persistence.dll
 C:\GGUNGOR\MyGithubRepositories\nArtitecture\rentACar\RentACar\Persistence\obj\Debug\net8.0\Persistence.pdb
 C:\GGUNGOR\MyGithubRepositories\nArtitecture\rentACar\RentACar\Persistence\obj\Debug\net8.0\ref\Persistence.dll
+C:\GGUNGOR\MyGithubRepositories\nArtitecture\rentACar\RentACar\Persistence\bin\Debug\net8.0\Persistence.runtimeconfig.json
+C:\GGUNGOR\MyGithubRepositories\nArtitecture\rentACar\RentACar\Persistence\obj\Debug\net8.0\Persistence.genruntimeconfig.cache

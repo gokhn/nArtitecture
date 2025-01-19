@@ -19,15 +19,3 @@ public class BusinessProblemDetails : ProblemDetails
 
     }
 }
-
-public class InternalServerProblemDetails : ProblemDetails
-{
-    public InternalServerProblemDetails(string detail)
-    {
-        Title = "Internal Server Error";
-        Detail = detail;
-        Status = StatusCodes.Status500InternalServerError;
-        Type = "https://example.com/probs/business";
-
-    }
-}

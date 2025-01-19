@@ -6,7 +6,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using ValidationException = Core.CrossCuttingConcerns.Exceptions.Types.ValidationException;
+//using ValidationException = Core.CrossCuttingConcerns.Exceptions.Types.ValidationException;
 
 namespace Core.Application.Pipelines.Validation;
 
@@ -21,6 +21,8 @@ public class RequestValidationBehavior<TRequest, TResponse> : IPipelineBehavior<
 
     public async Task<TResponse> Handle(TRequest request, RequestHandlerDelegate<TResponse> next, CancellationToken cancellationToken)
     {
+        //Ivalidator nesnesini  kullanan sınıflarda olusan hataları tespit eden Middleware
+
         ValidationContext<object> context = new(request);
         IEnumerable<ValidationExceptionModel> errors = _validators.Select(validator => validator.Validate(context))
             .SelectMany(result => result.Errors)
@@ -30,7 +32,7 @@ public class RequestValidationBehavior<TRequest, TResponse> : IPipelineBehavior<
             .ToList();
 
         if (errors.Any())
-            throw new ValidationException(errors);
+            throw new Core.CrossCuttingConcerns.Exceptions.Types.ValidationException(errors);
 
         TResponse response = await next();
 

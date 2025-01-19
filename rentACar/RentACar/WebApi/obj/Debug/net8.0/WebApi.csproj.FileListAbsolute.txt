@@ -294,7 +294,6 @@ C:\GGUNGOR\MyGithubRepositories\nArtitecture\rentACar\RentACar\WebApi\obj\Debug\
 C:\GGUNGOR\MyGithubRepositories\nArtitecture\rentACar\RentACar\WebApi\obj\Debug\net8.0\WebApi.AssemblyInfoInputs.cache
 C:\GGUNGOR\MyGithubRepositories\nArtitecture\rentACar\RentACar\WebApi\obj\Debug\net8.0\WebApi.AssemblyInfo.cs
 C:\GGUNGOR\MyGithubRepositories\nArtitecture\rentACar\RentACar\WebApi\obj\Debug\net8.0\WebApi.csproj.CoreCompileInputs.cache
-C:\GGUNGOR\MyGithubRepositories\nArtitecture\rentACar\RentACar\WebApi\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
 C:\GGUNGOR\MyGithubRepositories\nArtitecture\rentACar\RentACar\WebApi\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
 C:\GGUNGOR\MyGithubRepositories\nArtitecture\rentACar\RentACar\WebApi\obj\Debug\net8.0\WebApi.sourcelink.json
 C:\GGUNGOR\MyGithubRepositories\nArtitecture\rentACar\RentACar\WebApi\obj\Debug\net8.0\scopedcss\bundle\WebApi.styles.css
@@ -314,3 +313,5 @@ C:\GGUNGOR\MyGithubRepositories\nArtitecture\rentACar\RentACar\WebApi\obj\Debug\
 C:\GGUNGOR\MyGithubRepositories\nArtitecture\rentACar\RentACar\WebApi\obj\Debug\net8.0\WebApi.pdb
 C:\GGUNGOR\MyGithubRepositories\nArtitecture\rentACar\RentACar\WebApi\obj\Debug\net8.0\WebApi.genruntimeconfig.cache
 C:\GGUNGOR\MyGithubRepositories\nArtitecture\rentACar\RentACar\WebApi\obj\Debug\net8.0\ref\WebApi.dll
+C:\GGUNGOR\MyGithubRepositories\nArtitecture\rentACar\RentACar\WebApi\bin\Debug\net8.0\FluentValidation.dll
+C:\GGUNGOR\MyGithubRepositories\nArtitecture\rentACar\RentACar\WebApi\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll

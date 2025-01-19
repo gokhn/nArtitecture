@@ -3,12 +3,48 @@
   "WorkspaceRootPath": "C:\\GGUNGOR\\MyGithubRepositories\\nArtitecture\\corePackages\\Core.Packages\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4FCE7D0D-0B4C-4081-8F6B-C8DCD2A5F0E7}|Core.Application\\Core.Application.csproj|c:\\ggungor\\mygithubrepositories\\nartitecture\\corepackages\\core.packages\\core.application\\pipelines\\transaction\\transactionscopebehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FCE7D0D-0B4C-4081-8F6B-C8DCD2A5F0E7}|Core.Application\\Core.Application.csproj|solutionrelative:core.application\\pipelines\\transaction\\transactionscopebehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FCE7D0D-0B4C-4081-8F6B-C8DCD2A5F0E7}|Core.Application\\Core.Application.csproj|c:\\ggungor\\mygithubrepositories\\nartitecture\\corepackages\\core.packages\\core.application\\pipelines\\transaction\\itransactionalrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FCE7D0D-0B4C-4081-8F6B-C8DCD2A5F0E7}|Core.Application\\Core.Application.csproj|solutionrelative:core.application\\pipelines\\transaction\\itransactionalrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4FCE7D0D-0B4C-4081-8F6B-C8DCD2A5F0E7}|Core.Application\\Core.Application.csproj|c:\\ggungor\\mygithubrepositories\\nartitecture\\corepackages\\core.packages\\core.application\\pipelines\\validation\\requestvalidationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4FCE7D0D-0B4C-4081-8F6B-C8DCD2A5F0E7}|Core.Application\\Core.Application.csproj|solutionrelative:core.application\\pipelines\\validation\\requestvalidationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{20BD51B6-EE31-4554-A5A3-20514BBAE43E}|Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj|c:\\ggungor\\mygithubrepositories\\nartitecture\\corepackages\\core.packages\\core.crosscuttingconcerns\\exceptions\\handlers\\httpexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20BD51B6-EE31-4554-A5A3-20514BBAE43E}|Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj|solutionrelative:core.crosscuttingconcerns\\exceptions\\handlers\\httpexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20BD51B6-EE31-4554-A5A3-20514BBAE43E}|Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj|c:\\ggungor\\mygithubrepositories\\nartitecture\\corepackages\\core.packages\\core.crosscuttingconcerns\\exceptions\\httpproblemdetails\\validationproblemdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20BD51B6-EE31-4554-A5A3-20514BBAE43E}|Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj|solutionrelative:core.crosscuttingconcerns\\exceptions\\httpproblemdetails\\validationproblemdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20BD51B6-EE31-4554-A5A3-20514BBAE43E}|Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj|c:\\ggungor\\mygithubrepositories\\nartitecture\\corepackages\\core.packages\\core.crosscuttingconcerns\\exceptions\\httpproblemdetails\\businessproblemdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20BD51B6-EE31-4554-A5A3-20514BBAE43E}|Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj|solutionrelative:core.crosscuttingconcerns\\exceptions\\httpproblemdetails\\businessproblemdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{20BD51B6-EE31-4554-A5A3-20514BBAE43E}|Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj|c:\\ggungor\\mygithubrepositories\\nartitecture\\corepackages\\core.packages\\core.crosscuttingconcerns\\exceptions\\types\\valdiationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{20BD51B6-EE31-4554-A5A3-20514BBAE43E}|Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj|solutionrelative:core.crosscuttingconcerns\\exceptions\\types\\valdiationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20BD51B6-EE31-4554-A5A3-20514BBAE43E}|Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj|c:\\ggungor\\mygithubrepositories\\nartitecture\\corepackages\\core.packages\\core.crosscuttingconcerns\\exceptions\\httpproblemdetails\\internalserverproblemdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20BD51B6-EE31-4554-A5A3-20514BBAE43E}|Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj|solutionrelative:core.crosscuttingconcerns\\exceptions\\httpproblemdetails\\internalserverproblemdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20BD51B6-EE31-4554-A5A3-20514BBAE43E}|Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj|c:\\ggungor\\mygithubrepositories\\nartitecture\\corepackages\\core.packages\\core.crosscuttingconcerns\\exceptions\\handlers\\exceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20BD51B6-EE31-4554-A5A3-20514BBAE43E}|Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj|solutionrelative:core.crosscuttingconcerns\\exceptions\\handlers\\exceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FCE7D0D-0B4C-4081-8F6B-C8DCD2A5F0E7}|Core.Application\\Core.Application.csproj|c:\\ggungor\\mygithubrepositories\\nartitecture\\corepackages\\core.packages\\core.application\\responses\\getlistresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FCE7D0D-0B4C-4081-8F6B-C8DCD2A5F0E7}|Core.Application\\Core.Application.csproj|solutionrelative:core.application\\responses\\getlistresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FCE7D0D-0B4C-4081-8F6B-C8DCD2A5F0E7}|Core.Application\\Core.Application.csproj|c:\\ggungor\\mygithubrepositories\\nartitecture\\corepackages\\core.packages\\core.application\\requests\\pagerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FCE7D0D-0B4C-4081-8F6B-C8DCD2A5F0E7}|Core.Application\\Core.Application.csproj|solutionrelative:core.application\\requests\\pagerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{20BD51B6-EE31-4554-A5A3-20514BBAE43E}|Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj|c:\\ggungor\\mygithubrepositories\\nartitecture\\corepackages\\core.packages\\core.crosscuttingconcerns\\exceptions\\types\\businessexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,18 +62,6 @@
       "RelativeMoniker": "D:0:0:{20BD51B6-EE31-4554-A5A3-20514BBAE43E}|Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj|solutionrelative:core.crosscuttingconcerns\\exceptions\\extensions\\exceptionmiddlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20BD51B6-EE31-4554-A5A3-20514BBAE43E}|Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj|c:\\ggungor\\mygithubrepositories\\nartitecture\\corepackages\\core.packages\\core.crosscuttingconcerns\\exceptions\\httpproblemdetails\\businessproblemdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20BD51B6-EE31-4554-A5A3-20514BBAE43E}|Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj|solutionrelative:core.crosscuttingconcerns\\exceptions\\httpproblemdetails\\businessproblemdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20BD51B6-EE31-4554-A5A3-20514BBAE43E}|Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj|c:\\ggungor\\mygithubrepositories\\nartitecture\\corepackages\\core.packages\\core.crosscuttingconcerns\\exceptions\\handlers\\exceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20BD51B6-EE31-4554-A5A3-20514BBAE43E}|Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj|solutionrelative:core.crosscuttingconcerns\\exceptions\\handlers\\exceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20BD51B6-EE31-4554-A5A3-20514BBAE43E}|Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj|c:\\ggungor\\mygithubrepositories\\nartitecture\\corepackages\\core.packages\\core.crosscuttingconcerns\\exceptions\\handlers\\httpexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20BD51B6-EE31-4554-A5A3-20514BBAE43E}|Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj|solutionrelative:core.crosscuttingconcerns\\exceptions\\handlers\\httpexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{20BD51B6-EE31-4554-A5A3-20514BBAE43E}|Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj|c:\\ggungor\\mygithubrepositories\\nartitecture\\corepackages\\core.packages\\core.crosscuttingconcerns\\exceptions\\extensions\\problemdetailsextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{20BD51B6-EE31-4554-A5A3-20514BBAE43E}|Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj|solutionrelative:core.crosscuttingconcerns\\exceptions\\extensions\\problemdetailsextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -48,14 +72,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{5CB9BE55-E46D-4FA4-9388-1F47DFDFBFFB}|Core.Persistence\\Core.Persistence.csproj|c:\\ggungor\\mygithubrepositories\\nartitecture\\corepackages\\core.packages\\core.persistence\\dynamic\\iqueryabledynamicfilterextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5CB9BE55-E46D-4FA4-9388-1F47DFDFBFFB}|Core.Persistence\\Core.Persistence.csproj|solutionrelative:core.persistence\\dynamic\\iqueryabledynamicfilterextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FCE7D0D-0B4C-4081-8F6B-C8DCD2A5F0E7}|Core.Application\\Core.Application.csproj|c:\\ggungor\\mygithubrepositories\\nartitecture\\corepackages\\core.packages\\core.application\\responses\\getlistresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FCE7D0D-0B4C-4081-8F6B-C8DCD2A5F0E7}|Core.Application\\Core.Application.csproj|solutionrelative:core.application\\responses\\getlistresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FCE7D0D-0B4C-4081-8F6B-C8DCD2A5F0E7}|Core.Application\\Core.Application.csproj|c:\\ggungor\\mygithubrepositories\\nartitecture\\corepackages\\core.packages\\core.application\\requests\\pagerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FCE7D0D-0B4C-4081-8F6B-C8DCD2A5F0E7}|Core.Application\\Core.Application.csproj|solutionrelative:core.application\\requests\\pagerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5CB9BE55-E46D-4FA4-9388-1F47DFDFBFFB}|Core.Persistence\\Core.Persistence.csproj|c:\\ggungor\\mygithubrepositories\\nartitecture\\corepackages\\core.packages\\core.persistence\\dynamic\\filter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -109,7 +125,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 21,
+          "SelectedChildIndex": 20,
           "Children": [
             {
               "$type": "Bookmark",
@@ -193,59 +209,85 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ValdiationException.cs",
-              "DocumentMoniker": "C:\\GGUNGOR\\MyGithubRepositories\\nArtitecture\\corePackages\\Core.Packages\\Core.CrossCuttingConcerns\\Exceptions\\Types\\ValdiationException.cs",
-              "RelativeDocumentMoniker": "Core.CrossCuttingConcerns\\Exceptions\\Types\\ValdiationException.cs",
-              "ToolTip": "C:\\GGUNGOR\\MyGithubRepositories\\nArtitecture\\corePackages\\Core.Packages\\Core.CrossCuttingConcerns\\Exceptions\\Types\\ValdiationException.cs",
-              "RelativeToolTip": "Core.CrossCuttingConcerns\\Exceptions\\Types\\ValdiationException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "TransactionScopeBehavior.cs",
+              "DocumentMoniker": "C:\\GGUNGOR\\MyGithubRepositories\\nArtitecture\\corePackages\\Core.Packages\\Core.Application\\Pipelines\\Transaction\\TransactionScopeBehavior.cs",
+              "RelativeDocumentMoniker": "Core.Application\\Pipelines\\Transaction\\TransactionScopeBehavior.cs",
+              "ToolTip": "C:\\GGUNGOR\\MyGithubRepositories\\nArtitecture\\corePackages\\Core.Packages\\Core.Application\\Pipelines\\Transaction\\TransactionScopeBehavior.cs",
+              "RelativeToolTip": "Core.Application\\Pipelines\\Transaction\\TransactionScopeBehavior.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T21:00:08.722Z",
+              "WhenOpened": "2025-01-13T20:14:28.56Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "ITransactionalRequest.cs",
+              "DocumentMoniker": "C:\\GGUNGOR\\MyGithubRepositories\\nArtitecture\\corePackages\\Core.Packages\\Core.Application\\Pipelines\\Transaction\\ITransactionalRequest.cs",
+              "RelativeDocumentMoniker": "Core.Application\\Pipelines\\Transaction\\ITransactionalRequest.cs",
+              "ToolTip": "C:\\GGUNGOR\\MyGithubRepositories\\nArtitecture\\corePackages\\Core.Packages\\Core.Application\\Pipelines\\Transaction\\ITransactionalRequest.cs",
+              "RelativeToolTip": "Core.Application\\Pipelines\\Transaction\\ITransactionalRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T20:12:29.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InternalServerProblemDetails.cs",
+              "DocumentMoniker": "C:\\GGUNGOR\\MyGithubRepositories\\nArtitecture\\corePackages\\Core.Packages\\Core.CrossCuttingConcerns\\Exceptions\\HttpProblemDetails\\InternalServerProblemDetails.cs",
+              "RelativeDocumentMoniker": "Core.CrossCuttingConcerns\\Exceptions\\HttpProblemDetails\\InternalServerProblemDetails.cs",
+              "ToolTip": "C:\\GGUNGOR\\MyGithubRepositories\\nArtitecture\\corePackages\\Core.Packages\\Core.CrossCuttingConcerns\\Exceptions\\HttpProblemDetails\\InternalServerProblemDetails.cs",
+              "RelativeToolTip": "Core.CrossCuttingConcerns\\Exceptions\\HttpProblemDetails\\InternalServerProblemDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T21:47:33.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ValidationProblemDetails.cs",
+              "DocumentMoniker": "C:\\GGUNGOR\\MyGithubRepositories\\nArtitecture\\corePackages\\Core.Packages\\Core.CrossCuttingConcerns\\Exceptions\\HttpProblemDetails\\ValidationProblemDetails.cs",
+              "RelativeDocumentMoniker": "Core.CrossCuttingConcerns\\Exceptions\\HttpProblemDetails\\ValidationProblemDetails.cs",
+              "ToolTip": "C:\\GGUNGOR\\MyGithubRepositories\\nArtitecture\\corePackages\\Core.Packages\\Core.CrossCuttingConcerns\\Exceptions\\HttpProblemDetails\\ValidationProblemDetails.cs",
+              "RelativeToolTip": "Core.CrossCuttingConcerns\\Exceptions\\HttpProblemDetails\\ValidationProblemDetails.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAjwA8AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T21:47:03.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "RequestValidationBehavior.cs",
               "DocumentMoniker": "C:\\GGUNGOR\\MyGithubRepositories\\nArtitecture\\corePackages\\Core.Packages\\Core.Application\\Pipelines\\Validation\\RequestValidationBehavior.cs",
               "RelativeDocumentMoniker": "Core.Application\\Pipelines\\Validation\\RequestValidationBehavior.cs",
               "ToolTip": "C:\\GGUNGOR\\MyGithubRepositories\\nArtitecture\\corePackages\\Core.Packages\\Core.Application\\Pipelines\\Validation\\RequestValidationBehavior.cs",
               "RelativeToolTip": "Core.Application\\Pipelines\\Validation\\RequestValidationBehavior.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAkwCQAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAABaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-26T20:53:01.81Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": ".gitignore",
-              "DocumentMoniker": "C:\\GGUNGOR\\MyGithubRepositories\\nArtitecture\\.gitignore",
-              "RelativeDocumentMoniker": "..\\..\\.gitignore",
-              "ToolTip": "C:\\GGUNGOR\\MyGithubRepositories\\nArtitecture\\.gitignore",
-              "RelativeToolTip": "..\\..\\.gitignore",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG/SURBVDhPrZRNTgIxFMerDIaEhHgU97JxwUKGGaNeQJdyCY0XUBDWGhg4AB\u002BuvQk7OQCRFTP1fXWmMxUMCT94ee177eu/LVQdFK31kTSJ0WgEIa0SMJ2A6QTHcF9iicQqlYpa/6zv2\u002B2HD5nuEkWR/l4udRzHZBtjGzFor1YrPR6P9WKx0MNhpN96vTuZThyLJ1AJLK/iJFFxjBanBsXIozqkWq2qev1c1Wq19063e0ZBwBNP4JaQ6WRC/i8ajQb5wWBAvnxyghpOqQPkC8L5IEEQKjgxaqOTFsCd65tb6nmlkur1\u002BxwXCgX58KfT7QptwvCK52wrSLcJvtUKOABkQ6HFXwbGsmMRBkchzpjNphLZDSrEn5G1qnsp\u002BPEtheloXouRnXDTTjhb5tXmeyg0IgzuliHp\u002By0OANbiOCDXp1IYo3mMUxBT8/mMA/8QhGH6ZzC4Zwi5ZqoQB9M3h62I/\u002B/SAQpniBmtPvdQyGeYUdgyX8pl05eIBSxmTzQYEYbc42AuJQWLGJNQEcrJG4A4BTHneSW2sqfKOyybkxXMPbAvrx3IsyLzkPJFmUcWYtDntjG6lIvnp8cvKXNIlPoFvstpJRlQPIAAAAAASUVORK5CYII=",
-              "WhenOpened": "2024-12-26T18:59:05.2Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "ExceptionMiddlewareExtensions.cs",
-              "DocumentMoniker": "C:\\GGUNGOR\\MyGithubRepositories\\nArtitecture\\corePackages\\Core.Packages\\Core.CrossCuttingConcerns\\Exceptions\\Extensions\\ExceptionMiddlewareExtensions.cs",
-              "RelativeDocumentMoniker": "Core.CrossCuttingConcerns\\Exceptions\\Extensions\\ExceptionMiddlewareExtensions.cs",
-              "ToolTip": "C:\\GGUNGOR\\MyGithubRepositories\\nArtitecture\\corePackages\\Core.Packages\\Core.CrossCuttingConcerns\\Exceptions\\Extensions\\ExceptionMiddlewareExtensions.cs",
-              "RelativeToolTip": "Core.CrossCuttingConcerns\\Exceptions\\Extensions\\ExceptionMiddlewareExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAwAAAA0AAAAAAAAAA==",
+              "Title": "BusinessProblemDetails.cs",
+              "DocumentMoniker": "C:\\GGUNGOR\\MyGithubRepositories\\nArtitecture\\corePackages\\Core.Packages\\Core.CrossCuttingConcerns\\Exceptions\\HttpProblemDetails\\BusinessProblemDetails.cs",
+              "RelativeDocumentMoniker": "Core.CrossCuttingConcerns\\Exceptions\\HttpProblemDetails\\BusinessProblemDetails.cs",
+              "ToolTip": "C:\\GGUNGOR\\MyGithubRepositories\\nArtitecture\\corePackages\\Core.Packages\\Core.CrossCuttingConcerns\\Exceptions\\HttpProblemDetails\\BusinessProblemDetails.cs",
+              "RelativeToolTip": "Core.CrossCuttingConcerns\\Exceptions\\HttpProblemDetails\\BusinessProblemDetails.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwBIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T21:04:33.709Z",
+              "WhenOpened": "2024-12-25T19:36:37.886Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 13,
               "Title": "ExceptionMiddleware.cs",
               "DocumentMoniker": "C:\\GGUNGOR\\MyGithubRepositories\\nArtitecture\\corePackages\\Core.Packages\\Core.CrossCuttingConcerns\\Exceptions\\ExceptionMiddleware.cs",
               "RelativeDocumentMoniker": "Core.CrossCuttingConcerns\\Exceptions\\ExceptionMiddleware.cs",
@@ -253,94 +295,37 @@
               "RelativeToolTip": "Core.CrossCuttingConcerns\\Exceptions\\ExceptionMiddleware.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T20:01:12.554Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-25T20:01:12.554Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "BusinessProblemDetails.cs",
-              "DocumentMoniker": "C:\\GGUNGOR\\MyGithubRepositories\\nArtitecture\\corePackages\\Core.Packages\\Core.CrossCuttingConcerns\\Exceptions\\HttpProblemDetails\\BusinessProblemDetails.cs",
-              "RelativeDocumentMoniker": "Core.CrossCuttingConcerns\\Exceptions\\HttpProblemDetails\\BusinessProblemDetails.cs",
-              "ToolTip": "C:\\GGUNGOR\\MyGithubRepositories\\nArtitecture\\corePackages\\Core.Packages\\Core.CrossCuttingConcerns\\Exceptions\\HttpProblemDetails\\BusinessProblemDetails.cs",
-              "RelativeToolTip": "Core.CrossCuttingConcerns\\Exceptions\\HttpProblemDetails\\BusinessProblemDetails.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA+wBQAAAABAAAAAAAAAA==",
+              "Title": "ValdiationException.cs",
+              "DocumentMoniker": "C:\\GGUNGOR\\MyGithubRepositories\\nArtitecture\\corePackages\\Core.Packages\\Core.CrossCuttingConcerns\\Exceptions\\Types\\ValdiationException.cs",
+              "RelativeDocumentMoniker": "Core.CrossCuttingConcerns\\Exceptions\\Types\\ValdiationException.cs",
+              "ToolTip": "C:\\GGUNGOR\\MyGithubRepositories\\nArtitecture\\corePackages\\Core.Packages\\Core.CrossCuttingConcerns\\Exceptions\\Types\\ValdiationException.cs",
+              "RelativeToolTip": "Core.CrossCuttingConcerns\\Exceptions\\Types\\ValdiationException.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwAoAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T19:36:37.886Z",
+              "WhenOpened": "2024-12-26T21:00:08.722Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BusinessException.cs",
-              "DocumentMoniker": "C:\\GGUNGOR\\MyGithubRepositories\\nArtitecture\\corePackages\\Core.Packages\\Core.CrossCuttingConcerns\\Exceptions\\Types\\BusinessException.cs",
-              "RelativeDocumentMoniker": "Core.CrossCuttingConcerns\\Exceptions\\Types\\BusinessException.cs",
-              "ToolTip": "C:\\GGUNGOR\\MyGithubRepositories\\nArtitecture\\corePackages\\Core.Packages\\Core.CrossCuttingConcerns\\Exceptions\\Types\\BusinessException.cs",
-              "RelativeToolTip": "Core.CrossCuttingConcerns\\Exceptions\\Types\\BusinessException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-30T21:05:28.928Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ProblemDetailsExtensions.cs",
-              "DocumentMoniker": "C:\\GGUNGOR\\MyGithubRepositories\\nArtitecture\\corePackages\\Core.Packages\\Core.CrossCuttingConcerns\\Exceptions\\Extensions\\ProblemDetailsExtensions.cs",
-              "RelativeDocumentMoniker": "Core.CrossCuttingConcerns\\Exceptions\\Extensions\\ProblemDetailsExtensions.cs",
-              "ToolTip": "C:\\GGUNGOR\\MyGithubRepositories\\nArtitecture\\corePackages\\Core.Packages\\Core.CrossCuttingConcerns\\Exceptions\\Extensions\\ProblemDetailsExtensions.cs",
-              "RelativeToolTip": "Core.CrossCuttingConcerns\\Exceptions\\Extensions\\ProblemDetailsExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T19:47:36.105Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "HttpExceptionHandler.cs",
               "DocumentMoniker": "C:\\GGUNGOR\\MyGithubRepositories\\nArtitecture\\corePackages\\Core.Packages\\Core.CrossCuttingConcerns\\Exceptions\\Handlers\\HttpExceptionHandler.cs",
               "RelativeDocumentMoniker": "Core.CrossCuttingConcerns\\Exceptions\\Handlers\\HttpExceptionHandler.cs",
               "ToolTip": "C:\\GGUNGOR\\MyGithubRepositories\\nArtitecture\\corePackages\\Core.Packages\\Core.CrossCuttingConcerns\\Exceptions\\Handlers\\HttpExceptionHandler.cs",
               "RelativeToolTip": "Core.CrossCuttingConcerns\\Exceptions\\Handlers\\HttpExceptionHandler.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAIBJwBAAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwCQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-25T08:51:39.333Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ExceptionHandler.cs",
-              "DocumentMoniker": "C:\\GGUNGOR\\MyGithubRepositories\\nArtitecture\\corePackages\\Core.Packages\\Core.CrossCuttingConcerns\\Exceptions\\Handlers\\ExceptionHandler.cs",
-              "RelativeDocumentMoniker": "Core.CrossCuttingConcerns\\Exceptions\\Handlers\\ExceptionHandler.cs",
-              "ToolTip": "C:\\GGUNGOR\\MyGithubRepositories\\nArtitecture\\corePackages\\Core.Packages\\Core.CrossCuttingConcerns\\Exceptions\\Handlers\\ExceptionHandler.cs",
-              "RelativeToolTip": "Core.CrossCuttingConcerns\\Exceptions\\Handlers\\ExceptionHandler.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAwA0AAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T20:21:35.014Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "BaseBusinessRules.cs",
-              "DocumentMoniker": "C:\\GGUNGOR\\MyGithubRepositories\\nArtitecture\\corePackages\\Core.Packages\\Core.Application\\Rules\\BaseBusinessRules.cs",
-              "RelativeDocumentMoniker": "Core.Application\\Rules\\BaseBusinessRules.cs",
-              "ToolTip": "C:\\GGUNGOR\\MyGithubRepositories\\nArtitecture\\corePackages\\Core.Packages\\Core.Application\\Rules\\BaseBusinessRules.cs",
-              "RelativeToolTip": "Core.Application\\Rules\\BaseBusinessRules.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-30T21:29:44.707Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 9,
               "Title": "GetListResponse.cs",
               "DocumentMoniker": "C:\\GGUNGOR\\MyGithubRepositories\\nArtitecture\\corePackages\\Core.Packages\\Core.Application\\Responses\\GetListResponse.cs",
               "RelativeDocumentMoniker": "Core.Application\\Responses\\GetListResponse.cs",
@@ -348,12 +333,11 @@
               "RelativeToolTip": "Core.Application\\Responses\\GetListResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-19T20:31:20.395Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-19T20:31:20.395Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 10,
               "Title": "PageRequest.cs",
               "DocumentMoniker": "C:\\GGUNGOR\\MyGithubRepositories\\nArtitecture\\corePackages\\Core.Packages\\Core.Application\\Requests\\PageRequest.cs",
               "RelativeDocumentMoniker": "Core.Application\\Requests\\PageRequest.cs",
@@ -361,12 +345,84 @@
               "RelativeToolTip": "Core.Application\\Requests\\PageRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-19T20:25:38.034Z",
+              "WhenOpened": "2024-02-19T20:25:38.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BusinessException.cs",
+              "DocumentMoniker": "C:\\GGUNGOR\\MyGithubRepositories\\nArtitecture\\corePackages\\Core.Packages\\Core.CrossCuttingConcerns\\Exceptions\\Types\\BusinessException.cs",
+              "RelativeDocumentMoniker": "Core.CrossCuttingConcerns\\Exceptions\\Types\\BusinessException.cs",
+              "ToolTip": "C:\\GGUNGOR\\MyGithubRepositories\\nArtitecture\\corePackages\\Core.Packages\\Core.CrossCuttingConcerns\\Exceptions\\Types\\BusinessException.cs",
+              "RelativeToolTip": "Core.CrossCuttingConcerns\\Exceptions\\Types\\BusinessException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T21:05:28.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ExceptionHandler.cs",
+              "DocumentMoniker": "C:\\GGUNGOR\\MyGithubRepositories\\nArtitecture\\corePackages\\Core.Packages\\Core.CrossCuttingConcerns\\Exceptions\\Handlers\\ExceptionHandler.cs",
+              "RelativeDocumentMoniker": "Core.CrossCuttingConcerns\\Exceptions\\Handlers\\ExceptionHandler.cs",
+              "ToolTip": "C:\\GGUNGOR\\MyGithubRepositories\\nArtitecture\\corePackages\\Core.Packages\\Core.CrossCuttingConcerns\\Exceptions\\Handlers\\ExceptionHandler.cs",
+              "RelativeToolTip": "Core.CrossCuttingConcerns\\Exceptions\\Handlers\\ExceptionHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBQAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T20:21:35.014Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\GGUNGOR\\MyGithubRepositories\\nArtitecture\\.gitignore",
+              "RelativeDocumentMoniker": "..\\..\\.gitignore",
+              "ToolTip": "C:\\GGUNGOR\\MyGithubRepositories\\nArtitecture\\.gitignore",
+              "RelativeToolTip": "..\\..\\.gitignore",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG/SURBVDhPrZRNTgIxFMerDIaEhHgU97JxwUKGGaNeQJdyCY0XUBDWGhg4AB\u002BuvQk7OQCRFTP1fXWmMxUMCT94ee177eu/LVQdFK31kTSJ0WgEIa0SMJ2A6QTHcF9iicQqlYpa/6zv2\u002B2HD5nuEkWR/l4udRzHZBtjGzFor1YrPR6P9WKx0MNhpN96vTuZThyLJ1AJLK/iJFFxjBanBsXIozqkWq2qev1c1Wq19063e0ZBwBNP4JaQ6WRC/i8ajQb5wWBAvnxyghpOqQPkC8L5IEEQKjgxaqOTFsCd65tb6nmlkur1\u002BxwXCgX58KfT7QptwvCK52wrSLcJvtUKOABkQ6HFXwbGsmMRBkchzpjNphLZDSrEn5G1qnsp\u002BPEtheloXouRnXDTTjhb5tXmeyg0IgzuliHp\u002By0OANbiOCDXp1IYo3mMUxBT8/mMA/8QhGH6ZzC4Zwi5ZqoQB9M3h62I/\u002B/SAQpniBmtPvdQyGeYUdgyX8pl05eIBSxmTzQYEYbc42AuJQWLGJNQEcrJG4A4BTHneSW2sqfKOyybkxXMPbAvrx3IsyLzkPJFmUcWYtDntjG6lIvnp8cvKXNIlPoFvstpJRlQPIAAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-12-26T18:59:05.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ExceptionMiddlewareExtensions.cs",
+              "DocumentMoniker": "C:\\GGUNGOR\\MyGithubRepositories\\nArtitecture\\corePackages\\Core.Packages\\Core.CrossCuttingConcerns\\Exceptions\\Extensions\\ExceptionMiddlewareExtensions.cs",
+              "RelativeDocumentMoniker": "Core.CrossCuttingConcerns\\Exceptions\\Extensions\\ExceptionMiddlewareExtensions.cs",
+              "ToolTip": "C:\\GGUNGOR\\MyGithubRepositories\\nArtitecture\\corePackages\\Core.Packages\\Core.CrossCuttingConcerns\\Exceptions\\Extensions\\ExceptionMiddlewareExtensions.cs",
+              "RelativeToolTip": "Core.CrossCuttingConcerns\\Exceptions\\Extensions\\ExceptionMiddlewareExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T21:04:33.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProblemDetailsExtensions.cs",
+              "DocumentMoniker": "C:\\GGUNGOR\\MyGithubRepositories\\nArtitecture\\corePackages\\Core.Packages\\Core.CrossCuttingConcerns\\Exceptions\\Extensions\\ProblemDetailsExtensions.cs",
+              "RelativeDocumentMoniker": "Core.CrossCuttingConcerns\\Exceptions\\Extensions\\ProblemDetailsExtensions.cs",
+              "ToolTip": "C:\\GGUNGOR\\MyGithubRepositories\\nArtitecture\\corePackages\\Core.Packages\\Core.CrossCuttingConcerns\\Exceptions\\Extensions\\ProblemDetailsExtensions.cs",
+              "RelativeToolTip": "Core.CrossCuttingConcerns\\Exceptions\\Extensions\\ProblemDetailsExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T19:47:36.105Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 16,
+              "Title": "BaseBusinessRules.cs",
+              "DocumentMoniker": "C:\\GGUNGOR\\MyGithubRepositories\\nArtitecture\\corePackages\\Core.Packages\\Core.Application\\Rules\\BaseBusinessRules.cs",
+              "RelativeDocumentMoniker": "Core.Application\\Rules\\BaseBusinessRules.cs",
+              "ToolTip": "C:\\GGUNGOR\\MyGithubRepositories\\nArtitecture\\corePackages\\Core.Packages\\Core.Application\\Rules\\BaseBusinessRules.cs",
+              "RelativeToolTip": "Core.Application\\Rules\\BaseBusinessRules.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T21:29:44.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "Entity.cs",
               "DocumentMoniker": "C:\\GGUNGOR\\MyGithubRepositories\\nArtitecture\\corePackages\\Core.Packages\\Core.Persistence\\Respositories\\Entity.cs",
               "RelativeDocumentMoniker": "Core.Persistence\\Respositories\\Entity.cs",
@@ -374,12 +430,11 @@
               "RelativeToolTip": "Core.Persistence\\Respositories\\Entity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAIBJwAgAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-17T05:24:16.754Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-17T05:24:16.754Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 24,
               "Title": "IAsyncRepository.cs",
               "DocumentMoniker": "C:\\GGUNGOR\\MyGithubRepositories\\nArtitecture\\corePackages\\Core.Packages\\Core.Persistence\\Respositories\\IAsyncRepository.cs",
               "RelativeDocumentMoniker": "Core.Persistence\\Respositories\\IAsyncRepository.cs",
@@ -387,12 +442,11 @@
               "RelativeToolTip": "Core.Persistence\\Respositories\\IAsyncRepository.cs",
               "ViewState": "AgIAAC4AAAAAAAAAAAAkwBgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-17T05:24:06.573Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-17T05:24:06.573Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "IEntityTimestamps.cs",
               "DocumentMoniker": "C:\\GGUNGOR\\MyGithubRepositories\\nArtitecture\\corePackages\\Core.Packages\\Core.Persistence\\Respositories\\IEntityTimestamps.cs",
               "RelativeDocumentMoniker": "Core.Persistence\\Respositories\\IEntityTimestamps.cs",
@@ -400,12 +454,11 @@
               "RelativeToolTip": "Core.Persistence\\Respositories\\IEntityTimestamps.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-17T05:24:04.436Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-17T05:24:04.436Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 23,
               "Title": "EfRepositoryBase.cs",
               "DocumentMoniker": "C:\\GGUNGOR\\MyGithubRepositories\\nArtitecture\\corePackages\\Core.Packages\\Core.Persistence\\Respositories\\EfRepositoryBase.cs",
               "RelativeDocumentMoniker": "Core.Persistence\\Respositories\\EfRepositoryBase.cs",
@@ -413,12 +466,11 @@
               "RelativeToolTip": "Core.Persistence\\Respositories\\EfRepositoryBase.cs",
               "ViewState": "AgIAAMwAAAAAAAAAAAAiwPEAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-11-26T20:28:09.099Z",
-              "EditorCaption": ""
+              "WhenOpened": "2023-11-26T20:28:09.099Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 17,
               "Title": "IQueryableDynamicFilterExtensions.cs",
               "DocumentMoniker": "C:\\GGUNGOR\\MyGithubRepositories\\nArtitecture\\corePackages\\Core.Packages\\Core.Persistence\\Dynamic\\IQueryableDynamicFilterExtensions.cs",
               "RelativeDocumentMoniker": "Core.Persistence\\Dynamic\\IQueryableDynamicFilterExtensions.cs",
@@ -426,12 +478,11 @@
               "RelativeToolTip": "Core.Persistence\\Dynamic\\IQueryableDynamicFilterExtensions.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAAwCAAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-11-12T11:53:36.676Z",
-              "EditorCaption": ""
+              "WhenOpened": "2023-11-12T11:53:36.676Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 22,
               "Title": "Paginate.cs",
               "DocumentMoniker": "C:\\GGUNGOR\\MyGithubRepositories\\nArtitecture\\corePackages\\Core.Packages\\Core.Persistence\\Paging\\Paginate.cs",
               "RelativeDocumentMoniker": "Core.Persistence\\Paging\\Paginate.cs",
@@ -439,12 +490,11 @@
               "RelativeToolTip": "Core.Persistence\\Paging\\Paginate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-09-07T21:29:07.033Z",
-              "EditorCaption": ""
+              "WhenOpened": "2023-09-07T21:29:07.033Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "Filter.cs",
               "DocumentMoniker": "C:\\GGUNGOR\\MyGithubRepositories\\nArtitecture\\corePackages\\Core.Packages\\Core.Persistence\\Dynamic\\Filter.cs",
               "RelativeDocumentMoniker": "Core.Persistence\\Dynamic\\Filter.cs",
@@ -452,12 +502,11 @@
               "RelativeToolTip": "Core.Persistence\\Dynamic\\Filter.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-11-12T11:13:29.617Z",
-              "EditorCaption": ""
+              "WhenOpened": "2023-11-12T11:13:29.617Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "BasePageableModel.cs",
               "DocumentMoniker": "C:\\GGUNGOR\\MyGithubRepositories\\nArtitecture\\corePackages\\Core.Packages\\Core.Persistence\\Paging\\BasePageableModel.cs",
               "RelativeDocumentMoniker": "Core.Persistence\\Paging\\BasePageableModel.cs",
@@ -465,12 +514,11 @@
               "RelativeToolTip": "Core.Persistence\\Paging\\BasePageableModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-19T20:34:23.292Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-19T20:34:23.292Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 25,
               "Title": "IQuery.cs",
               "DocumentMoniker": "C:\\GGUNGOR\\MyGithubRepositories\\nArtitecture\\corePackages\\Core.Packages\\Core.Persistence\\Respositories\\IQuery.cs",
               "RelativeDocumentMoniker": "Core.Persistence\\Respositories\\IQuery.cs",
@@ -478,12 +526,11 @@
               "RelativeToolTip": "Core.Persistence\\Respositories\\IQuery.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-09-07T21:18:57.809Z",
-              "EditorCaption": ""
+              "WhenOpened": "2023-09-07T21:18:57.809Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 26,
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\GGUNGOR\\MyGithubRepositories\\nArtitecture\\corePackages\\Core.Packages\\Core.Persistence\\Respositories\\IRepository.cs",
               "RelativeDocumentMoniker": "Core.Persistence\\Respositories\\IRepository.cs",
@@ -491,12 +538,11 @@
               "RelativeToolTip": "Core.Persistence\\Respositories\\IRepository.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAYwCEAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-09-07T21:17:25.777Z",
-              "EditorCaption": ""
+              "WhenOpened": "2023-09-07T21:17:25.777Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 28,
               "Title": "IQueryablePaginateExtensions.cs",
               "DocumentMoniker": "C:\\GGUNGOR\\MyGithubRepositories\\nArtitecture\\corePackages\\Core.Packages\\Core.Persistence\\Paging\\IQueryablePaginateExtensions.cs",
               "RelativeDocumentMoniker": "Core.Persistence\\Paging\\IQueryablePaginateExtensions.cs",
@@ -504,12 +550,11 @@
               "RelativeToolTip": "Core.Persistence\\Paging\\IQueryablePaginateExtensions.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAowCMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-09-07T21:37:02.416Z",
-              "EditorCaption": ""
+              "WhenOpened": "2023-09-07T21:37:02.416Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 27,
               "Title": "Sort.cs",
               "DocumentMoniker": "C:\\GGUNGOR\\MyGithubRepositories\\nArtitecture\\corePackages\\Core.Packages\\Core.Persistence\\Dynamic\\Sort.cs",
               "RelativeDocumentMoniker": "Core.Persistence\\Dynamic\\Sort.cs",
@@ -517,8 +562,11 @@
               "RelativeToolTip": "Core.Persistence\\Dynamic\\Sort.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAIBJwAwAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-11-12T11:20:59.588Z",
-              "EditorCaption": ""
+              "WhenOpened": "2023-11-12T11:20:59.588Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

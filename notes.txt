@@ -4,5 +4,5 @@
 
 Nuget console üzerinden proje Peristence seçilip aşağıdaki sorgular çalıştırılır.
 
-add-migration
+add-migration init
 update-database

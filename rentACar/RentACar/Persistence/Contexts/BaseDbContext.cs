@@ -26,7 +26,7 @@ namespace Persistence.Contexts
             Database.EnsureCreated(); //Db olusturur, mevcut bir veritabanını değiştirmez veya güncellemez. 
 
         }
-
+        
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.ApplyConfigurationsFromAssembly(Assembly.GetExecutingAssembly()); //Mevcut Assembly icerisindeki Configurasyonları bul ve uygula
